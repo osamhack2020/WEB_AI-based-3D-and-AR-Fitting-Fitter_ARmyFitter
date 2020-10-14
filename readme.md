@@ -51,6 +51,9 @@ $ yarn start or npm run start
  
 ## 팀 정보 (Team Information)
 - 박건우
+- 박경민
+- 박인영
+- 안형진
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
  * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)

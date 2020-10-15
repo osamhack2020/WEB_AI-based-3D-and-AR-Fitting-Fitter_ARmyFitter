@@ -10,7 +10,7 @@ ARmy Fitter(로고 이미지 작성중)
 
 
 ## 팀소개 및 프로잭트 설명 동영상
-[![Watch the video](https://img.youtube.com/vi/LjX3eVQdIyk/0.jpg)](https://www.youtube.com/watch?time_continue=117&v=LjX3eVQdIyk)
+ARmy Fitter(팀소개 및 프로젝트 설명 동영상 제작중)
 
 ## 기능 설계
  -  발사믹, 카카오 오븐 등 본인이 편한 목업 프레임워크를 이용하여 제작 후 링크 

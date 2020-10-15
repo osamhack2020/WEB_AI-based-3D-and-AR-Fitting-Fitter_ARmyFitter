@@ -1,4 +1,4 @@
-아래의 **샘플 양식은 필수**입니다.
+﻿아래의 **샘플 양식은 필수**입니다.
 설명이 부족하거나 추가하고싶은 부분이 있으면 개발자님이 추가해서 작성해주세요!
 동영상, 이미지, 텍스트 전부 자유입니다.
 
@@ -50,10 +50,10 @@ $ yarn start or npm run start
  샘플 에디터 [https://stackedit.io/app#](https://stackedit.io/app#)
  
 ## 팀 정보 (Team Information)
-- 박건우
-- 박경민
-- 박인영
-- 안형진
+- 중령 박건우(팀장)
+- 7급 박경민
+- 8급 박인영
+- 소위 안형진
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
  * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)

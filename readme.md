@@ -10,10 +10,14 @@ ARmy Fitter
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/1602808000338.jpg?raw=true)
 
 ## 팀소개 및 프로잭트 설명 동영상
+**빅데이터 분석&AI 기반 피복류 추천**
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/bigdata%20AI.png?raw=true)
+
 **3D 가상 피팅**
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/sample.png?raw=true)
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/3D%20modeling.png?raw=true)
 
 **AR(증강현실) 체험**
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/AR.png?raw=true)
 
 ## 기능 설계
  -  발사믹, 카카오 오븐 등 본인이 편한 목업 프레임워크를 이용하여 제작 후 링크 

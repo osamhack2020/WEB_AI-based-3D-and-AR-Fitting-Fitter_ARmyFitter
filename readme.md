@@ -6,8 +6,8 @@
 **2019프로젝트, readme.md를 참고하여 개발자님의 새로운 프로젝트를 만들어주세요!**
 
 # Team Logo
-ARmy Fitter(로고 이미지 작성중)
-
+ARmy Fitter
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/1602808000338.jpg?raw=true)
 
 ## 팀소개 및 프로잭트 설명 동영상
 ARmy Fitter(팀소개 및 프로젝트 설명 동영상 제작중)

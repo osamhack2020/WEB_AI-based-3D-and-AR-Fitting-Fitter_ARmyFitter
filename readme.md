@@ -11,7 +11,7 @@ ARmy Fitter(로고 이미지 작성중)
 
 ## 팀소개 및 프로잭트 설명 동영상
 ARmy Fitter(팀소개 및 프로젝트 설명 동영상 제작중)
-![Github logo](https://raw.githubusercontent.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/master/folder/샘플.png)
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/sample.png?raw=true)
 
 ## 기능 설계
  -  발사믹, 카카오 오븐 등 본인이 편한 목업 프레임워크를 이용하여 제작 후 링크 

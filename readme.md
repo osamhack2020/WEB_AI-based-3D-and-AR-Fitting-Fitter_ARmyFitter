@@ -8,15 +8,15 @@ ARmy Fitter
 ## 팀소개 및 프로잭트 설명 동영상
 빅데이터 분석&AI 기반 피복류 추천
 
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/bigdata%20AI.png?raw=true)
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation.jpg?raw=true)
 
 3D 가상 피팅
 
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/3D%20modeling.png?raw=true)
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/3D%20virtual%20fitting.jpg?raw=true)
 
 AR(증강현실) 체험
 
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/AR.png?raw=true)
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/AR.jpg?raw=true)
 
 ## 기능 설계
  -  발사믹, 카카오 오븐 등 본인이 편한 목업 프레임워크를 이용하여 제작 후 링크 
@@ -55,10 +55,10 @@ $ yarn start or npm run start
  샘플 에디터 [https://stackedit.io/app#](https://stackedit.io/app#)
  
 ## 팀 정보 (Team Information)
-- 중령 박건우(팀장)
-- 7급 박경민
-- 8급 박인영
-- 소위 안형진
+- Park GunWoo(biybab@nate.com), Github ID : park-gunwoo
+- Park InYeong(piy01@naver.com), Github ID : Park-inyeong
+- Park KyungMin(suguys@naver.com), Github ID : suguys
+- Ahn HyeongJin(mindofthesky@naver.com), Github ID : mindofthesky
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
  * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)

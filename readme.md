@@ -1,11 +1,20 @@
 ﻿[https://github.com/osam2019](https://github.com/osam2019)
-**2019프로젝트, readme.md를 참고하여 개발자님의 새로운 프로젝트를 만들어주세요!**
+**2019프로젝트
 
 # Team Logo
-ARmy Fitter
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/1602808000338.jpg?raw=true)
 
-## 팀소개 및 프로잭트 설명 동영상
+육군을 상징하고 프로젝트의 성격과 연관된 어휘를 종합하여 로고를 제작하였음
+* Army(육군), AR(Augmented Reality), My(나의), Fitting → Army → "AR"my → ARmyFitter
+
+
+## 팀소개
+ARmyFitter란 팀명을 사용하였으며
+팀원은 4명(개발관리장교, 빅데이터기술담당, VR기술/개발담당, 정보작전SW개발장교)으로 구성하였음.
+팀원 별 기획 및 계획, 시스템 설계 및 분석, 구현 및 프로젝트 개발 관리, 영상제작 등의 임무 분장을 통해 과업을 수행 함
+
+
+## 프로젝트 설명
 빅데이터 분석&AI 기반 피복류 추천
 
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation.jpg?raw=true)
@@ -17,6 +26,10 @@ ARmy Fitter
 AR(증강현실) 체험
 
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/AR.jpg?raw=true)
+
+## 프로젝트 동영상
+제작중
+
 
 ## 기능 설계
  -  발사믹, 카카오 오븐 등 본인이 편한 목업 프레임워크를 이용하여 제작 후 링크 

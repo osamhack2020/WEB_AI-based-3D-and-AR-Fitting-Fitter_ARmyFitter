@@ -42,7 +42,7 @@
 * 3D 모델링을 통한 피복 추천값의 가시화롤 신체 치수에 맞는 모델을 3D 360º 회전으로 가상 확인 가능
 * AR을 통해 머리 사이즈별 최적의 베레모 추천으로 직접 현장에서 착용해 보지 않아도 선체험을 통한 언택트 환경에 부합 
 
-## 프로젝트 설명
+## 프로젝트 세부 내용설명
 빅데이터 분석&AI 기반 피복류 추천
 
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation.jpg?raw=true)

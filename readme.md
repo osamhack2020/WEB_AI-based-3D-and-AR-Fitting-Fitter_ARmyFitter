@@ -49,6 +49,7 @@
 
 * ② 동영상(유투브 링크)
 [https://youtu.be/JauKatovPbU](https://youtu.be/JauKatovPbU)
+
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/u.jpg?raw=true)
 
 * ③ 체형별 9가지 타입

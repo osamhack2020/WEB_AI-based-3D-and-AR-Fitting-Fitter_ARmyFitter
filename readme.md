@@ -63,7 +63,7 @@
 
 3D 가상 피팅
 
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/3D%20virtual%20fitting.jpg?raw=true)
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/3D%20virtual%20fitting1.jpg?raw=true)
 
 AR(증강현실) 체험
 

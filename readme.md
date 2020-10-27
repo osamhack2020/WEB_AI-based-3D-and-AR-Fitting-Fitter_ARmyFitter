@@ -76,7 +76,7 @@ AR(증강현실) 체험
 
 
 ##  기능 설계(화면 구성)
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation.jpg?raw=true)
+* 내용작성 예정
 
 ##  컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
 * 내용작성 예정
@@ -91,7 +91,7 @@ AR(증강현실) 체험
 ## 공개SW 해커톤 경연대회 SW 및 오픈소스 사용목록
  -  내용 작성 예정
 
-## (내용 수정예정)설치 안내 (Installation Process)
+## 설치 안내 (Installation Process)
  -  내용 수정 예정
 ```bash
 $ git clone git주소
@@ -101,6 +101,7 @@ $ yarn start or npm run start
 
 ## 프로젝트 사용법 (Getting Started)
  -  내용 수정 예정
+
 **마크다운 문법을 이용하여 자유롭게 기재**
 
 잘 모를 경우
@@ -117,4 +118,4 @@ $ yarn start or npm run start
 - Ahn HyeongJin(mindofthesky@naver.com), Github ID : mindofthesky
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
- * [MIT](https://github.com/osam2020-WEB/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/license.md)
+ * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)

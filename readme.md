@@ -1,7 +1,4 @@
-﻿[https://github.com/osam2019](https://github.com/osam2019)
-**2019프로젝트
-
-# Team Logo
+﻿# Team Logo
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/1602808000338.jpg?raw=true)
 
 육군을 상징하고 프로젝트의 성격과 연관된 어휘를 종합하여 로고를 제작하였음

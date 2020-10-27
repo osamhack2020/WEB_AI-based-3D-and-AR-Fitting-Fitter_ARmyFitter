@@ -43,14 +43,12 @@
 * AR을 통해 머리 사이즈별 최적의 베레모 추천으로 직접 현장에서 착용해 보지 않아도 선체험을 통한 언택트 환경에 부합 
 
 ## 3D 가상피팅 모델(피터 상병) 소개
-* ① 이미지
-
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(one).jpg?raw=true)
-
-* ② 동영상(유투브 링크)
+* ① 동영상(유투브 링크)
 [https://youtu.be/JauKatovPbU](https://youtu.be/JauKatovPbU)
 
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/u.jpg?raw=true)
+* ② 이미지
+
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(one).jpg?raw=true)
 
 * ③ 체형별 9가지 타입
 

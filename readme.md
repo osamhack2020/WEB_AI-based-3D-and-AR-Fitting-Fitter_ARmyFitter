@@ -42,6 +42,11 @@
 * 3D 모델링을 통한 피복 추천값의 가시화롤 신체 치수에 맞는 모델을 3D 360º 회전으로 가상 확인 가능
 * AR을 통해 머리 사이즈별 최적의 베레모 추천으로 직접 현장에서 착용해 보지 않아도 선체험을 통한 언택트 환경에 부합 
 
+## 3D 가상피팅 모델(피터 상병) 소개
+* ① 이미지
+* ② 동영상(유투브 링크)
+* ③ 체형별 9가지 타입
+
 ## 프로젝트 세부 내용설명
 빅데이터 분석&AI 기반 피복류 추천
 
@@ -56,36 +61,35 @@ AR(증강현실) 체험
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/AR.jpg?raw=true)
 
 ## 프로젝트 동영상
-제작중
+* ① 홍보 동영상(스토리텔링 반영) : 제작중
+* ② 기능 시연 동영상 : ARmy Fitter 실행(신체치수 입력) + AI 추천결과 3D확인
+* ③ 기능 시연 동영상 : AI 추천결과 3D 확인 + AR(증강현실) 체험
 
+##  (내용 수정예정)기능 설계
+ -  내용 작성 예정
 
-## 기능 설계
- -  발사믹, 카카오 오븐 등 본인이 편한 목업 프레임워크를 이용하여 제작 후 링크 
- - 수기로 작성시 찍어서 올려주세요
-
-## 컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
+##  (내용 수정예정)컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
 * ECMAScript 6 지원 브라우저 사용
 * 권장: Google Chrome 버젼 77 이상
 
-## 기술 스택 (Technique Used) (예시)
+##  (내용 수정예정)기술 스택 (Technique Used)
 ### Server(back-end)
- -  nodejs, php, java 등 서버 언어 버전 
- - express, laravel, sptring boot 등 사용한 프레임워크 
- - DB 등 사용한 다른 프로그램 
+ -  내용 작성 예정
  
 ### front-end
- -  react.js, vue.js 등 사용한 front-end 프레임워크 
- -  UI framework
- - 기타 사용한 라이브러리
+ -  내용 작성 예정
 
-## 설치 안내 (Installation Process)
+## 공개SW 해커톤 경연대회 SW 및 오픈소스 사용목록
+
+
+## (내용 수정예정)설치 안내 (Installation Process)
 ```bash
 $ git clone git주소
 $ yarn or npm install
 $ yarn start or npm run start
 ```
 
-## 프로젝트 사용법 (Getting Started)
+## (내용 수정예정)프로젝트 사용법 (Getting Started)
 **마크다운 문법을 이용하여 자유롭게 기재**
 
 잘 모를 경우

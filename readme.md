@@ -159,7 +159,7 @@ $ 아이폰 실행을 위한 iOS Build 방법
 - Ahn HyeongJin(mindofthesky@naver.com), Github ID : mindofthesky
 
 
-## 마크다운 문법 참고 (Getting Started)
+## 마크다운 문법 참고 (MarkDown Grammar)
 마크다운 문법
 [https://post.naver.com/viewer/postView.nhn?volumeNo=24627214&memberNo=42458017](https://post.naver.com/viewer/postView.nhn?volumeNo=24627214&memberNo=42458017)
 

@@ -1,4 +1,3 @@
-# Team Logo
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter_logo.jpg?raw=true)
 
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/logo_title1.png?raw=true)
@@ -89,7 +88,9 @@
 AR(증강현실) 체험
 
 ➀ AI + AR 기술 융합 기반의 베레모 치수 추천받기 앱 개발 / 적용
-* AI 기반의 ‘Facial Tracking Algorithm’ 을 AR에 적용하는 아이디어를 통해 얼굴의 윤곽 및  곡면을 실시간 Tracking하고 그 결과를 스마트폰의 카메라 뷰를 통해 보여줌
+* AI 기반의 ‘Facial Tracking Algorithm’ 을 AR에 적용하는 아이디어를 통해 얼굴의 윤곽 및
+
+곡면을 실시간 Tracking하고 그 결과를 스마트폰의 카메라 뷰를 통해 보여줌
 * 트랙킹 된 가상 얼굴의 468개의 메시 특정 지점 간의 거리값 측정 코드 구현 / 적용
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation8.jpg?raw=true)
 

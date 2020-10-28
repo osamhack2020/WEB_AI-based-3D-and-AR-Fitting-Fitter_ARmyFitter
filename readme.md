@@ -20,6 +20,9 @@ ARmy Fitter 미리보기 |
 * 팀원은 4명(개발관리장교, 빅데이터기술담당, VR기술/개발담당, 정보작전SW개발장교)으로 구성하였음.
 * 팀원 별 기획 및 계획, 시스템 설계 및 분석, 구현 및 프로젝트 개발 관리, 영상제작 등의 임무 분장을 통해 과업 수행
 
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/team.jpg?raw=true)
+
+
 ## 아이템 선정 배경
 * 코로나19로 인한 언택트 서비스가 강조되고 있고
 * 입대 시 병사들의 경우 샘플 피복 착용 후 희망 치수를 분배 또는 본인이 입던 치수나 신체 측정 치수를 바탕으로

@@ -77,11 +77,11 @@
 
 ➀ 추천 치수에 따른 3D 군복 가상 피팅
 
-  ● 3D SW(Maya)의 모델링을 통한 피복 추천 결과값의 가시화 제공
-  ● 내 신체 치수에 맞는 피복 착용 모델을 3D 360도 회전으로 웹상에서 확인 가능 
-  ● Python 데이터와 3D 모델 간 데이터 연동을 통해 정확하고 다양한 결과 제시
-  ● Pixologic zBrush, Marvelous Designer SW 활용해 사실적인 Cloth 구현
-  ● 직접 가서 입어보지 않아도 가상 착용 모델 확인을 통한 언택트 구현
+* ● 3D SW(Maya)의 모델링을 통한 피복 추천 결과값의 가시화 제공
+* ● 내 신체 치수에 맞는 피복 착용 모델을 3D 360도 회전으로 웹상에서 확인 가능 
+* ● Python 데이터와 3D 모델 간 데이터 연동을 통해 정확하고 다양한 결과 제시
+* ● Pixologic zBrush, Marvelous Designer SW 활용해 사실적인 Cloth 구현
+* ● 직접 가서 입어보지 않아도 가상 착용 모델 확인을 통한 언택트 구현
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation4.jpg?raw=true)
 
 AR(증강현실) 체험

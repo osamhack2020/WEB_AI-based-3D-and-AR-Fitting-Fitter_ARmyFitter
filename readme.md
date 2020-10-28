@@ -53,8 +53,10 @@
 * 빅데이터 분석을 통해 비정형화된 치수 테이터를 가공하여 표준 데이터를 산정하고 가시화할 수 있는 데이터 제공
 
 
-First Header | Second Header 
------------- | -------------
+① 빅데이터 분석 | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation9_2.jpg?raw=true) 
+------------ | :-------------:
+**② AI-Based 가중치 분석** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation2_2.jpg?raw=true)  
+**③ AI-Based 피복추천, 정확률 제시** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation3.jpg?raw=true)
 
 
 ① 동영상(유투브 링크) | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation9_2.jpg?raw=true)

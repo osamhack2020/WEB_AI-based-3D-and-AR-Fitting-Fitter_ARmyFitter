@@ -10,7 +10,7 @@
 ## 팀소개
 * ARmyFitter란 팀명을 사용하였으며
 * 팀원은 4명(개발관리장교, 빅데이터기술담당, VR기술/개발담당, 정보작전SW개발장교)으로 구성하였음.
-* 팀원 별 기획 및 계획, 시스템 설계 및 분석, 구현 및 프로젝트 개발 관리, 영상제작 등의 임무 분장을 통해 과업을 수행 함
+* 팀원 별 기획 및 계획, 시스템 설계 및 분석, 구현 및 프로젝트 개발 관리, 영상제작 등의 임무 분장을 통해 과업 수행
 
 ## 아이템 선정 배경
 * 코로나19로 인한 언택트 서비스가 강조되고 있고
@@ -36,14 +36,8 @@
 ## 3D 가상피팅 모델(피터 상병) 소개
 * ① 동영상(유투브 링크)
 [https://youtu.be/JauKatovPbU](https://youtu.be/JauKatovPbU)
-
-* ② 이미지
-
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter_one_small2.jpg?raw=true)
-
-* ③ 체형별 9가지 타입
-
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(9).jpg?raw=true)
+* ② 이미지  ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter_one_small2.jpg?raw=true)
+* ③ 체형별 9가지 타입  ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(9).jpg?raw=true)
 
 
 ## 프로젝트 동영상

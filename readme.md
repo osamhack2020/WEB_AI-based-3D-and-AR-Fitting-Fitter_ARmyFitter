@@ -133,7 +133,6 @@ ARmy Fitter 미리보기 |
  -  내용 작성 예정
 
 ## 설치 및 프로젝트 사용법 안내 (Installation Process & Getting Started)
- -  내용 수정 예정
 ```bash
 $ 현재 ARmy Fitter AR 서비스는 안드로이드 기반으로 개발 및 Build되었으며,
 $ Android 용 실행파일인 apk 파일이 생성되며,
@@ -160,21 +159,9 @@ $ 아이폰 실행을 위한 iOS Build 방법
 - Ahn HyeongJin(mindofthesky@naver.com), Github ID : mindofthesky
 
 
-
-##  컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
-* 내용작성 예정
-
-## 프로젝트 사용법 (Getting Started)
- -  내용 수정 예정
-
-**마크다운 문법을 이용하여 자유롭게 기재**
-
-잘 모를 경우
-구글 검색 - 마크다운 문법
+## 마크다운 문법활용 참고 (Getting Started)
+마크다운 문법
 [https://post.naver.com/viewer/postView.nhn?volumeNo=24627214&memberNo=42458017](https://post.naver.com/viewer/postView.nhn?volumeNo=24627214&memberNo=42458017)
-
- 편한 마크다운 에디터를 찾아서 사용
- 샘플 에디터 [https://stackedit.io/app#](https://stackedit.io/app#)
 
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)

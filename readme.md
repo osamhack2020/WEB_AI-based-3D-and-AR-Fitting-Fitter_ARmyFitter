@@ -41,7 +41,14 @@
 **③ 체형별 9가지 타입** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(9).jpg?raw=true)
 
 ##  기능 설계(메뉴 구성)
- ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu_merge.jpg?raw=true)
+* ① Web Design & 3D WebGL
+* ② 3D Modeling & Rendering
+* ③ Unity & Augmented Reality
+
+① | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu1_small_2.jpg?raw=true)  
+------------ | :-------------: 
+**②** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu2_small_2.jpg?raw=true)  
+**③** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu3_small_3.jpg?raw=true)
 
 ## 프로젝트 동영상
 * ① 홍보 동영상(스토리텔링 반영) : 제작중

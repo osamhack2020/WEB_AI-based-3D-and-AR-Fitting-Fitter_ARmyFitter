@@ -23,7 +23,8 @@
   * 빅데이터 분석&AI 기반의 개인 맞춤형 피복추천 + 3D&AR 체험 서비스를 제안함
 
 ## 아이템의 가치 및 기대효과
-* 변화하는 신체 특성 분석 및 병사(소비자) 맞춤형 진화  √ 개인체형에 가장 적합한 치수 지급 가능
+* 변화하는 신체 특성 분석 및 병사(소비자) 맞춤형 진화
+  * 개인체형에 가장 적합한 치수 지급 가능
   * 신교대별 재고 보유수준 감소에 따른 저장관리 용이
   * 치수별 소요예측 적중률 향상으로 조달소요량 판단에 기여 
   * 장병 신체변화를 고려한 미래 치수체계 재정립에 단초 제공
@@ -37,30 +38,8 @@
 ① 동영상(유투브 링크) | [https://youtu.be/JauKatovPbU](https://youtu.be/JauKatovPbU) 
 ------------ | ------------- 
 ② 이미지 | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter_one_small2.jpg?raw=true) 
+------------ | ------------- 
 ③ 체형별 9가지 타입 | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(9).jpg?raw=true)
-
-
-
-
-
-
- |  
------------- | ------------- 
-
- |  
------------- | ------------- 
-
-
-
-
-
-
-* ② 이미지 | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter_one_small2.jpg?raw=true)
------------- | -------------
-* ② 이미지
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter_one_small2.jpg?raw=true)
-* ③ 체형별 9가지 타입
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(9).jpg?raw=true)
 
 
 ## 프로젝트 동영상

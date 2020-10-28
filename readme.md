@@ -91,13 +91,13 @@ AR(증강현실) 체험
 * AI 기반의 ‘Facial Tracking Algorithm’ 을 AR에 적용하는 아이디어 착안
 * 얼굴의 윤곽 및 곡면을 실시간 Tracking하고 그 결과를 스마트폰의 카메라 뷰를 통해 반영
 * 트랙킹 된 가상 얼굴의 468개의 메시 특정 지점 간의 거리값 측정 코드 구현 / 적용
-
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation8.jpg?raw=true)
 
 * 사람마다 얼굴의 크기, 이마의 너비 등 수치가 다른 점을 착안
-* 자체개발 프로그래밍을 통해 얼굴의 특정지점 간 거리값을 실시간 측정하고 반환값에 따른 베레모 치수 추천
-* 소수점 이하 8자리까지의 초정밀 정확도 제시
+* 자체개발 프로그래밍을 통해 얼굴의 특정지점 간 거리값을 실시간 측정
+* 반환값에 따른 베레모 치수 추천, 소수점 이하 8자리까지의 초정밀 정확도 제시
 * 직접 모델링한 3D 베레모를 AR(증강현실)과 접목해 사용자별 서로 다른 크기의 베레모 착용모습을 카메라로 제시
+
 
 * 데모 시연
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation6.jpg?raw=true)

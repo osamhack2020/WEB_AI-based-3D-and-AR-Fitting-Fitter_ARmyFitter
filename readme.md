@@ -92,8 +92,7 @@ AR(증강현실) 체험
 
 * 데모 시연
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation6.jpg?raw=true)
-* 스마트폰(안드로이드, iOS) 모든 기종 Build 및 실행 가능하며 프로그램 고도화를 통해 데이터의 정확도 향상 목표
-* 병사들도 스마트폰을 가지고 있기 때문에 언제 어디서든 자신의 베레모 추천치수와 착용샷 확인가능
+* 스마트폰(안드로이드, iOS) 모든 기종 Build 및 실행 가능하며 프로그램 고도화를 통해 데이터의 정확도 향상 목표 * 병사들도 스마트폰을 가지고 있기 때문에 언제 어디서든 자신의 베레모 추천치수와 착용샷 확인가능
 
 ##  기능 설계(화면 구성)
 * 내용작성 예정

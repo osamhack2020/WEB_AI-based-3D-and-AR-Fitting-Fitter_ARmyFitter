@@ -62,7 +62,6 @@
 빅데이터 분석&AI 기반 피복류 추천
 
 ➀ 최적의 치수 추천을 위해 Python 기반 Contents base Filter 알고리즘 사용
-
 ② 빅데이터 분석을 통해 비정형화된 치수 테이터를 가공하여 표준 데이터를 산정하고 가시화할 수 있는 데이터 제공
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation1.jpg?raw=true)
 
@@ -79,13 +78,9 @@
 ➀ 추천 치수에 따른 3D 군복 가상 피팅
 
   ● 3D SW(Maya)의 모델링을 통한 피복 추천 결과값의 가시화 제공
-
   ● 내 신체 치수에 맞는 피복 착용 모델을 3D 360도 회전으로 웹상에서 확인 가능 
-
   ● Python 데이터와 3D 모델 간 데이터 연동을 통해 정확하고 다양한 결과 제시
-
   ● Pixologic zBrush, Marvelous Designer SW 활용해 사실적인 Cloth 구현
-
   ● 직접 가서 입어보지 않아도 가상 착용 모델 확인을 통한 언택트 구현
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation4.jpg?raw=true)
 
@@ -98,15 +93,12 @@ AR(증강현실) 체험
   ● 트랙킹 된 가상 얼굴의 468개의 메시 특정 지점 간의 거리값 측정 코드 구현 / 적용
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation5.jpg?raw=true)
   ● 사람마다 얼굴의 크기, 이마의 너비 등 수치가 다른 점을 착안해 자체개발 프로그래밍을 통해 얼굴의 특정지점 간 거리값을 실시간 측정하고 반환값에 따른 베레모 치수 추천
-
   ● 소수점 이하 8자리까지의 초정밀 정확도를 제시
-
   ● 직접 모델링한 3D 베레모를 AR(증강현실)과 접목해 사용자별 서로 다른 크기의 베레모 착용모습을 카메라로 제시 (이마의 너비에 따라 베레모 사이즈 자동변환)
 
   ● 데모 시연
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation6.jpg?raw=true)
   ● 스마트폰(안드로이드, iOS) 모든 기종 Build 및 실행 가능하며 프로그램 고도화를 통해 데이터의 정확도 향상 목표
-
   ● 병사들도 스마트폰을 가지고 있기 때문에 언제 어디서든 자신의 베레모 추천치수와 착용샷 확인가능
 
 ##  기능 설계(화면 구성)

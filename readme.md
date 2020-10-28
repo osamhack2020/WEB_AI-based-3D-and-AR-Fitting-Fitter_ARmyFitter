@@ -4,12 +4,8 @@
 
 ARmy Fitter 미리보기 | 
 ------------ |  
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/u.jpg?raw=true) | 
+[![Video Label](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/u.jpg?raw=true)](https://youtu.be/JauKatovPbU) | 
 
-
-
-
-[![Video Label](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/u.jpg?raw=true)](https://youtu.be/JauKatovPbU)
 
 
 

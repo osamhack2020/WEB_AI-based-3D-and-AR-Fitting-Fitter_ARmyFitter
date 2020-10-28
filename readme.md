@@ -63,12 +63,17 @@
 
 * 최적의 치수 추천을 위해 Python 기반 Contents base Filter 알고리즘 사용
 * 빅데이터 분석을 통해 비정형화된 치수 테이터를 가공하여 표준 데이터를 산정하고 가시화할 수 있는 데이터 제공
+
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation1.jpg?raw=true)
+
 * 표준 데이터를 통한 군복추천 시 가중치 분석
 
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation2.jpg?raw=true)
+
 * AI 머신러닝을 통해 개개인의 신체 치수를 입력받아 개개인별 군복(피복)추천
+
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation3.jpg?raw=true)
+
 * 전투복 상의, 하의, 베레모 , 전투화에 대한 추천 결과(사이즈) 및 정확률 제시
 
 3D 가상 피팅

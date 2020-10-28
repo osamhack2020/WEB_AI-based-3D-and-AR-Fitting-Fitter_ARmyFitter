@@ -65,6 +65,7 @@
 * 빅데이터 분석을 통해 비정형화된 치수 테이터를 가공하여 표준 데이터를 산정하고 가시화할 수 있는 데이터 제공
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation1.jpg?raw=true)
 * 표준 데이터를 통한 군복추천 시 가중치 분석
+
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation2.jpg?raw=true)
 * AI 머신러닝을 통해 개개인의 신체 치수를 입력받아 개개인별 군복(피복)추천
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation3.jpg?raw=true)
@@ -93,7 +94,6 @@ AR(증강현실) 체험
 
 * 데모 시연
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation6.jpg?raw=true)
-
 * 스마트폰(안드로이드, iOS) 모든 기종 Build 및 실행 가능하며 프로그램 고도화를 통해 데이터의 정확도 향상 목표
 * 병사들도 스마트폰을 가지고 있기 때문에 언제 어디서든 자신의 베레모 추천치수와 착용샷 확인가능
 

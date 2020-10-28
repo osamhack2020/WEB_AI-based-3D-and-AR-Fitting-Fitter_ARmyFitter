@@ -66,6 +66,7 @@
 * Python 데이터와 3D 모델 간 데이터 연동을 통해 정확하고 다양한 결과 제시
 * Pixologic zBrush, Marvelous Designer SW 활용해 사실적인 Cloth 구현
 * 직접 가서 입어보지 않아도 가상 착용 모델 확인을 통한 언택트 구현
+
 ① 군복 가상피팅 | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation7.jpg?raw=true) 
 ------------ | :-------------:
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation7.jpg?raw=true)
@@ -74,6 +75,7 @@
 * AI 기반의 ‘Facial Tracking Algorithm’ 을 AR에 적용하는 아이디어 착안
 * 얼굴의 윤곽 및 곡면을 실시간 Tracking하고 그 결과를 스마트폰의 카메라 뷰를 통해 반영
 * 트랙킹 된 가상 얼굴의 468개의 메시 특정 지점 간의 거리값 측정 코드 구현 / 적용
+
 ① AI & AR 융합 기반의 앱 개발 | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation8.jpg?raw=true) 
 ------------ | :-------------:
 **② 증강현실 체험** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation6.jpg?raw=true)  

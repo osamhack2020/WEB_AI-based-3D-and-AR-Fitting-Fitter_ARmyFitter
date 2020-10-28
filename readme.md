@@ -4,9 +4,9 @@
 
 
 
-First Header | 
+ARmy Fitter 미리보기 | 
 ------------ |  
-Content cell 1 | 
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(9).jpg?raw=true) | 
 
 
 

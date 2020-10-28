@@ -1,4 +1,7 @@
-﻿# Team Logo
+﻿[https://github.com/osam2019](https://github.com/osam2019)
+**2019프로젝트
+
+# Team Logo
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/1602808000338.jpg?raw=true)
 
 육군을 상징하고 프로젝트의 성격과 연관된 어휘를 종합하여 로고를 제작하였음
@@ -32,7 +35,7 @@
   * 신체 정보에 따른 맞춤형 피복을 가상의 세계에서 입대 前 / 後 선착용 경험 가능
   * 3D 모델링을 통한 피복 추천값의 가시화롤 신체 치수에 맞는 모델을 3D 360º 회전으로 가상 확인 가능
   * AR을 통해 머리 사이즈별 최적의 베레모 추천으로 직접 현장에서 착용해 보지 않아도 선체험 가능
-* 구축된 신체 빅데이터를 통한 표준체형 분석 및 민간 피복 제조업계 도움 
+* 구축된 신체 빅데이터를 통한 표준체형 분석 및 민간 피복 제조업계 도움
 
 ## 3D 가상피팅 모델(피터 상병) 소개
 * ① 동영상(유투브 링크)
@@ -54,41 +57,18 @@
 
 
 ## 프로젝트 세부 내용설명
-**빅데이터 분석&AI 기반 피복류 추천**
+빅데이터 분석&AI 기반 피복류 추천
 
-* 최적의 치수 추천을 위해 Python 기반 Contents base Filter 알고리즘 사용
-* 빅데이터 분석을 통해 비정형화된 치수 테이터를 가공하여 표준 데이터를 산정하고 가시화할 수 있는 데이터 제공
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation1.jpg?raw=true)
-* 표준 데이터를 통한 군복추천 시 가중치 분석
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation2.jpg?raw=true)
-* AI 머신러닝을 통해 개개인의 신체 치수를 입력받아 개개인별 군복(피복)추천
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation3.jpg?raw=true)
-* 전투복 상의, 하의, 베레모 , 전투화에 대한 추천 결과(사이즈) 및 정확률 제시
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation.jpg?raw=true)
 
-**3D 가상 피팅**
+3D 가상 피팅
 
-➀ 추천 치수에 따른 3D 군복 가상 피팅
-* 3D SW(Maya)의 모델링을 통한 피복 추천 결과값의 가시화 제공
-* 내 신체 치수에 맞는 피복 착용 모델을 3D 360도 회전으로 웹상에서 확인 가능 
-* Python 데이터와 3D 모델 간 데이터 연동을 통해 정확하고 다양한 결과 제시
-* Pixologic zBrush, Marvelous Designer SW 활용해 사실적인 Cloth 구현
-* 직접 가서 입어보지 않아도 가상 착용 모델 확인을 통한 언택트 구현
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation4.jpg?raw=true)
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/3D%20virtual%20fitting.jpg?raw=true)
 
-**AR(증강현실) 체험**
+AR(증강현실) 체험
 
-➀ AI + AR 기술 융합 기반의 베레모 치수 추천받기 앱 개발 / 적용
-* AI 기반의 ‘Facial Tracking Algorithm’ 을 AR에 적용하는 아이디어를 통해 얼굴의 윤곽 및 곡면을 실시간 Tracking하고 그 결과를 스마트폰의 카메라 뷰를 통해 보여줌
-* 트랙킹 된 가상 얼굴의 468개의 메시 특정 지점 간의 거리값 측정 코드 구현 / 적용
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation5.jpg?raw=true)
-* 사람마다 얼굴의 크기, 이마의 너비 등 수치가 다른 점을 착안해 자체개발 프로그래밍을 통해 얼굴의 특정지점 간 거리값을 실시간 측정하고 반환값에 따른 베레모 치수 추천
-* 소수점 이하 8자리까지의 초정밀 정확도를 제시
-* 직접 모델링한 3D 베레모를 AR(증강현실)과 접목해 사용자별 서로 다른 크기의 베레모 착용모습을 카메라로 제시 (이마의 너비에 따라 베레모 사이즈 자동변환)
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/AR.jpg?raw=true)
 
-* 데모 시연
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation6.jpg?raw=true)
-* 스마트폰(안드로이드, iOS) 모든 기종 Build 및 실행 가능하며 프로그램 고도화를 통해 데이터의 정확도 향상 목표
-* 병사들도 스마트폰을 가지고 있기 때문에 언제 어디서든 자신의 베레모 추천치수와 착용샷 확인가능
 
 ##  기능 설계(화면 구성)
 * 내용작성 예정

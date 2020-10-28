@@ -8,6 +8,8 @@ ARmy Fitter 미리보기 |
 
 
 
+[![Watch the video]https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/u.jpg?raw=true](https://youtu.be/JauKatovPbU)
+
 
 --- 
 육군을 상징하고 프로젝트의 성격과 연관된 어휘를 종합하여 로고를 제작하였음

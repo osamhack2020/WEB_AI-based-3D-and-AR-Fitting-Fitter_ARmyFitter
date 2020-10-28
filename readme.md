@@ -62,23 +62,6 @@ ARmy Fitter 미리보기 |
 **②** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu2_small_2.jpg?raw=true)  
 **③** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu3_small_3.jpg?raw=true)
 
-## 영상자료
-**【발표영상】**
-
-영상 | 
-:------------: |  
-제작중 |
- 
-* 보조영상 링크(제작중)
-
-
-**【시연영상】**
-
-시연영상 | 
-:------------: |  
-제작중 | 
-* 보조영상(1) 링크(제작중)
-* 보조영상(2) 링크(제작중)
 
 ## 프로젝트 세부 내용설명
 **【빅데이터 분석 & AI 기반 피복류 추천】**
@@ -123,6 +106,25 @@ ARmy Fitter 미리보기 |
 ① | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation8.jpg?raw=true) 
 ------------ | :-------------:
 **②** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation6.jpg?raw=true)  
+
+
+## 영상자료
+**【발표영상】**
+
+영상 | 
+:------------: |  
+제작중 |
+ 
+* 보조영상 링크(제작중)
+
+
+**【시연영상】**
+
+시연영상 | 
+:------------: |  
+제작중 | 
+* 보조영상(1) 링크(제작중)
+* 보조영상(2) 링크(제작중)
 
 
 ##  기술 스택 (Technique Used)

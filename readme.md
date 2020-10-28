@@ -35,10 +35,14 @@
 * 구축된 신체 빅데이터를 통한 표준체형 분석 및 민간 피복 제조업계 도움 
 
 ## 3D 가상피팅 모델(피터) 소개
-① 동영상(유투브 링크) | [https://youtu.be/JauKatovPbU](https://youtu.be/JauKatovPbU) 
+* ① 동영상(유투브 링크) 
+* ② 이미지
+* ③ 체형별 9가지 타입
+
+① | [https://youtu.be/JauKatovPbU](https://youtu.be/JauKatovPbU) 
 ------------ | :-------------: 
-**② 이미지** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter_one_small2.jpg?raw=true)  
-**③ 체형별 9가지 타입** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(9).jpg?raw=true)
+**②** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter_one_small2.jpg?raw=true)  
+**③** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(9).jpg?raw=true)
 
 ##  기능 설계(메뉴 구성)
 * ① Web Design & 3D WebGL

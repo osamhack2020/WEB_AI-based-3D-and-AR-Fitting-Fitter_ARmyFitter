@@ -2,11 +2,9 @@
 
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/logo_title.png?raw=true)
 
-
-
 ARmy Fitter 미리보기 | 
 ------------ |  
- ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/youtube_%ED%99%9C%EC%9A%A9.jpg?raw=true | 
+[![Video Label](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/u.jpg?raw=true)](https://youtu.be/KfOGwLGoyl4) | 
 
 
 
@@ -64,10 +62,6 @@ ARmy Fitter 미리보기 |
 **②** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu2_small_2.jpg?raw=true)  
 **③** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu3_small_3.jpg?raw=true)
 
-## 프로젝트 동영상
-* ① 홍보 동영상(스토리텔링 반영) : 제작중
-* ② 기능 시연 동영상 : ARmy Fitter 실행(신체치수 입력) + AI 추천결과 3D확인
-* ③ 기능 시연 동영상 : AI 추천결과 3D 확인 + AR(증강현실) 체험
 
 
 ## 프로젝트 세부 내용설명
@@ -115,8 +109,24 @@ ARmy Fitter 미리보기 |
 **②** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation6.jpg?raw=true)  
 
 
-##  컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
-* 내용작성 예정
+## 영상자료
+**【발표영상】**
+
+영상 | 
+:------------: |  
+제작중 |
+ 
+* 보조영상 링크(제작중)
+
+
+**【시연영상】**
+
+시연영상 | 
+:------------: |  
+제작중 | 
+* 보조영상(1) 링크(제작중)
+* 보조영상(2) 링크(제작중)
+
 
 ##  기술 스택 (Technique Used)
 ### Server(back-end)
@@ -125,34 +135,37 @@ ARmy Fitter 미리보기 |
 ### front-end
  -  내용 작성 예정
 
-## 공개SW 해커톤 경연대회 SW 및 오픈소스 사용목록
- -  내용 작성 예정
-
-## 설치 안내 (Installation Process)
- -  내용 수정 예정
+## 설치 및 프로젝트 사용법 안내 (Installation Process & Getting Started)
 ```bash
-$ git clone git주소
-$ yarn or npm install
-$ yarn start or npm run start
+$ 현재 ARmy Fitter AR 서비스는 안드로이드 기반으로 개발 및 Build되었으며,
+$ Android 용 실행파일인 apk 파일이 생성되며,
+$ Android 스마트폰의 경우 '출처를 알 수 없는 앱 설치' 사용 설정을 통해 설치 및 실행 가능
+```
+```bash
+$ 아이폰의 경우 Unity에서 iOS용 Build를 통해 실행이 가능하나
+$ iOS Build를 위해서는 MAC PC를 이용하여 다소 복잡한 사전 작업이 필요함
+$ 아이폰 실행을 위한 iOS Build 방법
+   1. MAC PC
+   2. XCode Application
+   3. Apple iOS Developer 계정 가입
+   4. CSR 파일 생성 및 인증서 요청
+   5. Mobile 기기 등록
+   6. Unity Build Run
+   7. XCode를 통한 실행
 ```
 
-## 프로젝트 사용법 (Getting Started)
- -  내용 수정 예정
-
-**마크다운 문법을 이용하여 자유롭게 기재**
-
-잘 모를 경우
-구글 검색 - 마크다운 문법
-[https://post.naver.com/viewer/postView.nhn?volumeNo=24627214&memberNo=42458017](https://post.naver.com/viewer/postView.nhn?volumeNo=24627214&memberNo=42458017)
-
- 편한 마크다운 에디터를 찾아서 사용
- 샘플 에디터 [https://stackedit.io/app#](https://stackedit.io/app#)
  
 ## 팀 정보 (Team Information)
 - Park GunWoo(biybab@nate.com), Github ID : park-gunwoo
 - Park InYeong(piy01@naver.com), Github ID : Park-inyeong
 - Park KyungMin(suguys@naver.com), Github ID : suguys
 - Ahn HyeongJin(mindofthesky@naver.com), Github ID : mindofthesky
+
+
+## 마크다운 문법 참고 (MarkDown Grammar)
+마크다운 문법
+[https://post.naver.com/viewer/postView.nhn?volumeNo=24627214&memberNo=42458017](https://post.naver.com/viewer/postView.nhn?volumeNo=24627214&memberNo=42458017)
+
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
  * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)

@@ -1,6 +1,6 @@
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter_logo.jpg?raw=true)
 
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/logo_title2.png?raw=true)
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/logo_title1.png?raw=true)
 --- 
 육군을 상징하고 프로젝트의 성격과 연관된 어휘를 종합하여 로고를 제작하였음
 * Army(육군), AR(Augmented Reality), My(나의), Fitting → Army → "AR"my → ARmyFitter

@@ -70,7 +70,6 @@ ARmy Fitter 미리보기 |
 제작중 |
  
 * 보조영상 링크(제작중)
-* 링크 테스트 https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/%5B%ED%86%B5%ED%95%A9.mp4?raw=true
 
 
 **【시연영상】**

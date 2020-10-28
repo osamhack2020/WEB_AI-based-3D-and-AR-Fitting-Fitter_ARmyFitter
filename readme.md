@@ -23,8 +23,6 @@ ARmy Fitter 미리보기 |
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/team2.jpg?raw=true) | 
 ------------ | 
 
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/team.jpg?raw=true)
-
 
 ## 아이템 선정 배경
 * 코로나19로 인한 언택트 서비스가 강조되고 있고

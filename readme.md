@@ -1,4 +1,6 @@
+<center>
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter_logo.jpg?raw=true)
+</center>
 
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/logo_title1.png?raw=true)
 --- 

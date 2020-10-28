@@ -34,12 +34,14 @@
   * AR을 통해 머리 사이즈별 최적의 베레모 추천으로 직접 현장에서 착용해 보지 않아도 선체험 가능
 * 구축된 신체 빅데이터를 통한 표준체형 분석 및 민간 피복 제조업계 도움 
 
-## 3D 가상피팅 모델(피터 상병) 소개
+## 3D 가상피팅 모델(피터) 소개
 ① 동영상(유투브 링크) | [https://youtu.be/JauKatovPbU](https://youtu.be/JauKatovPbU) 
 ------------ | :-------------: 
 **② 이미지** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter_one_small2.jpg?raw=true)  
 **③ 체형별 9가지 타입** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(9).jpg?raw=true)
 
+##  기능 설계(메뉴 구성)
+ ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu_merge.jpg?raw=true)
 
 ## 프로젝트 동영상
 * ① 홍보 동영상(스토리텔링 반영) : 제작중
@@ -70,7 +72,7 @@
   * 내 신체 치수에 맞는 피복 착용 모델을 3D 360도 회전으로 웹상에서 확인 가능 
   * Python 데이터와 3D 모델 간 데이터 연동을 통해 정확하고 다양한 결과 제시
   * Pixologic zBrush, Marvelous Designer SW 활용해 사실적인 Cloth 구현
-  * 가상 피팅모델(피터 상병)을 통해 추천된 피복 착용으로 언택트 구현
+  * 가상 피팅모델(피터)을 통해 추천된 피복 착용으로 언택트 구현
 
 ① | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation7.jpg?raw=true) 
 ------------ | :-------------:
@@ -91,9 +93,6 @@
 ------------ | :-------------:
 **②** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation6.jpg?raw=true)  
 
-
-##  기능 설계(화면 구성)
-* 내용작성 예정
 
 ##  컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
 * 내용작성 예정

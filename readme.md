@@ -48,20 +48,19 @@
 
 
 ## 프로젝트 세부 내용설명
-**『【빅데이터 분석&AI 기반 피복류 추천】』**
+**【빅데이터 분석 & AI 기반 피복류 추천】**
 * 최적의 치수 추천을 위해 Python 기반 Contents base Filter 알고리즘 사용
 * 빅데이터 분석을 통해 비정형화된 치수 테이터를 가공하여 표준 데이터를 산정하고 가시화할 수 있는 데이터 제공
 * 표준 데이터를 통한 군복추천 시 가중치 분석
 * AI 머신러닝을 통해 개개인의 신체 치수를 입력받아 개개인별 군복(피복)추천
 * 전투복 상의, 하의, 베레모 , 전투화에 대한 추천 결과(사이즈) 및 정확률 제시
+
 ① 빅데이터 분석 | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation9_2.jpg?raw=true) 
 ------------ | :-------------:
 **② AI-Based 가중치 분석** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation2_2.jpg?raw=true)  
 **③ AI-Based 피복추천, 정확률 제시** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation3.jpg?raw=true)
 
-
-
-**3D 가상 피팅**
+**【3D 가상 피팅】**
 
 ➀ 추천 치수에 따른 3D 군복 가상 피팅
 * 3D SW(Maya)의 모델링을 통한 피복 추천 결과값의 가시화 제공
@@ -71,7 +70,7 @@
 * 직접 가서 입어보지 않아도 가상 착용 모델 확인을 통한 언택트 구현
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation7.jpg?raw=true)
 
-**AR(증강현실) 체험**
+**【AR(증강현실) 체험】**
 
 ➀ AI + AR 기술 융합 기반의 베레모 치수 추천받기 앱 개발 / 적용
 * AI 기반의 ‘Facial Tracking Algorithm’ 을 AR에 적용하는 아이디어 착안

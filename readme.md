@@ -62,11 +62,22 @@ ARmy Fitter 미리보기 |
 **②** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu2_small_2.jpg?raw=true)  
 **③** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu3_small_3.jpg?raw=true)
 
-## 프로젝트 동영상
-* ① 홍보 동영상(스토리텔링 반영) : 제작중
-* ② 기능 시연 동영상 : ARmy Fitter 실행(신체치수 입력) + AI 추천결과 3D확인
-* ③ 기능 시연 동영상 : AI 추천결과 3D 확인 + AR(증강현실) 체험
+## 영상자료
+**【발표영상】**
 
+촬영영상 | 
+:------------: |  
+제작중 |
+ 
+* 보조영상 링크(제작중)
+
+**【시연영상】**
+
+시연영상 | 
+:------------: |  
+제작중 | 
+* 보조영상(1) 링크(제작중)
+* 보조영상(2) 링크(제작중)
 
 ## 프로젝트 세부 내용설명
 **【빅데이터 분석 & AI 기반 피복류 추천】**

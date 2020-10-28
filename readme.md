@@ -36,8 +36,10 @@
 ## 3D 가상피팅 모델(피터 상병) 소개
 * ① 동영상(유투브 링크)
 [https://youtu.be/JauKatovPbU](https://youtu.be/JauKatovPbU)
-* ② 이미지  ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter_one_small2.jpg?raw=true)
-* ③ 체형별 9가지 타입  ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(9).jpg?raw=true)
+* ② 이미지
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter_one_small2.jpg?raw=true)
+* ③ 체형별 9가지 타입
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(9).jpg?raw=true)
 
 
 ## 프로젝트 동영상

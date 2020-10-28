@@ -55,7 +55,9 @@
 
 ① 빅데이터 분석 | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation9_2.jpg?raw=true) 
 ------------ | :-------------:
-**② AI-Based 가중치 분석** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation2_2.jpg?raw=true)  
+**② AI-Based 가중치 
+
+분석** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation2_2.jpg?raw=true)  
 **③ AI-Based 피복추천, 정확률 제시** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation3.jpg?raw=true)
 
 

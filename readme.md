@@ -60,6 +60,7 @@
 **② AI-Based 가중치 분석** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation2_2.jpg?raw=true)  
 **③ AI-Based 피복추천, 정확률 제시** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation3.jpg?raw=true)
 
+
 **【추천 치수에 따른 3D 군복 가상피팅】**
 * 3D SW(Maya)의 모델링을 통한 피복 추천 결과값의 가시화 제공
 * 내 신체 치수에 맞는 피복 착용 모델을 3D 360도 회전으로 웹상에서 확인 가능 
@@ -69,6 +70,7 @@
 
 ① 군복 가상피팅 | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation7.jpg?raw=true) 
 ------------ | :-------------:
+
 
 **【AI & AR 기술 융합, 베레모 추천받기 앱 개발 및  AR 체험】**
 * AI 기반의 ‘Facial Tracking Algorithm’ 을 AR에 적용하는 아이디어 착안

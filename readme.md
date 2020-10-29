@@ -124,10 +124,15 @@ PPT 동영상(편집중) | 비디오 촬영영상
 
 **【시연영상】**
 
-스토리텔링 기반 시연영상(편집중) | 보조영상(1) 편집중 | 보조영상(2) 편집중  
+스토리텔링 기반 시연영상(편집중) | 보조영상(1) | 보조영상(2)  
 ------------ | :-------------:  | :-------------:
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/storytelling_3.jpg?raw=true) | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/story_sub_1.jpg?raw=true)  | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/story_sub_2.jpg?raw=true) 
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/storytelling_3.jpg?raw=true) | [![Video Label](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/story_sub_1.jpg?raw=true)](https://youtu.be/-5D7rCWLjml)  | [![Video Label](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/story_sub_2.jpg?raw=true)](https://youtu.be/-j6GXn6p0JE) 
 
+
+
+
+[![Video Label](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/presentation_video.jpg?raw=true)](https://youtu.be/qjZHjrUhzNg)  
+[![Video Label](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/presentation_video.jpg?raw=true)](https://youtu.be/qjZHjrUhzNg)  
 
 
 

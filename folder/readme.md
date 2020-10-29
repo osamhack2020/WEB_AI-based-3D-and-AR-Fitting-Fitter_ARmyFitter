@@ -2,9 +2,9 @@
 
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/logo_title.png?raw=true)
 
-ARmy Fitter 미리보기 | 
+ARmy Fitter 미리보기(편집중) | 
 ------------ |  
-[![Video Label](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/u.jpg?raw=true)](https://youtu.be/KfOGwLGoyl4) | 
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/u.jpg?raw=true) | 
 
 
 
@@ -16,31 +16,37 @@ ARmy Fitter 미리보기 |
 
 
 ## 팀소개
-* ARmyFitter란 팀명을 사용하였으며
-* 팀원은 4명(개발관리장교, 빅데이터기술담당, VR기술/개발담당, 정보작전SW개발장교)으로 구성하였음.
-* 팀원 별 기획 및 계획, 시스템 설계 및 분석, 구현 및 프로젝트 개발 관리, 영상제작 등의 임무 분장을 통해 과업 수행
+
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/teamwork_3.jpg?raw=true) | 
+------------ | 
+
+* 팀명은 **"피터**(Fitter)"**이며**
+* 팀원은 4명(개발관리장교, 빅데이터기술담당, VR기술/개발담당, 정보작전SW개발장교)으로 구성하였고
+* 팀원 별 기획 및 계획, 시스템 설계 및 분석, 구현 및 프로젝트 개발 관리, 영상제작 등의 임무 분장과
+* 임무는 분업화 하되 **"신뢰기반의 팀워크 발휘"**를 통해 프로젝트를** 재미있게** 수행함
+
 
 ## 아이템 선정 배경
-* 코로나19로 인한 언택트 서비스가 강조되고 있고
+* 코로나19로 인한 **언택트 서비스가 강조**되고 있고
 * 입대 시 병사들의 경우 샘플 피복 착용 후 희망 치수를 분배 또는 본인이 입던 치수나 신체 측정 치수를 바탕으로
   * 교관 경험에 의해 피복류가 추천(지급)됨에 따라
-  * 추천 된 치수의 피복류 착용 후 사이즈가 맞지 않는 불편 호소와 교환이 빈번하게 발생하고,
-  * 변화된 입대 장병들의 신체 치수에 유연하게 적용 가능한 치수체계 미정립으로
+  * 추천 된 치수의 피복류 착용 후 **사이즈가 맞지 않는 불편 호소와 교환이 빈번하게 발생**하고,
+  * 변화된 입대 장병들의 **신체 치수에 유연하게 적용 가능한 치수체계 미정립**으로
   * 입대 장병들의 희망치수 사전 확보 부족 및 불출 지연이 발생과 특정치수의 재고 누적 현상이 발생함에 따라 
 * 위와 같은 문제점을 해결하기 위한 방안으로
-  * 빅데이터 분석&AI 기반의 개인 맞춤형 피복추천 + 3D&AR 체험 서비스를 제안함
+  * **빅데이터 분석&AI 기반**의 개인 맞춤형 피복추천 + **3D&AR 체험** 서비스를 제안함
 
 ## 아이템의 가치 및 기대효과
-* 변화하는 신체 특성 분석 및 병사(소비자) 맞춤형 진화
-  * 개인체형에 가장 적합한 치수 지급 가능
+* 첨단 IT 신기술(빅데이터, 인공지능, 3D, 증강현실)의 **융합 적용**
+* 신체 정보에 따른 맞춤형 피복을 가상의 세계에서 입대 前 / 後 **선착용 경험** 가능
+* 입대 장병의 신체 **치수체계 재정립 및 개인체형에 가장 적합한 치수 지급** 가능
+  * 변화하는 신체 특성 분석 및 병사(소비자) 맞춤형 서비스 지원 가능
   * 신교대별 재고 보유수준 감소에 따른 저장관리 용이
-  * 치수별 소요예측 적중률 향상으로 조달소요량 판단에 기여 
+  * 치수별 소요예측 적중률 향상으로 **조달소요량 판단**에 기여 
   * 장병 신체변화를 고려한 미래 치수체계 재정립에 단초 제공
-* 코로나19 상황 등에 따른 언택트 서비스 지원(소비)에 적합
-  * 신체 정보에 따른 맞춤형 피복을 가상의 세계에서 입대 前 / 後 선착용 경험 가능
-  * 3D 모델링을 통한 피복 추천값의 가시화롤 신체 치수에 맞는 모델을 3D 360º 회전으로 가상 확인 가능
-  * AR을 통해 머리 사이즈별 최적의 베레모 추천으로 직접 현장에서 착용해 보지 않아도 선체험 가능
-* 구축된 신체 빅데이터를 통한 표준체형 분석 및 민간 피복 제조업계 도움 
+* 코로나19 상황 등에 따른 **언택트 서비스 지원**에 적합
+  * 3D 모델링을 통한 추천된 피복에 대한 가상 피팅 서비스 지원 및 AR을 통한 피복 착용 간접 체험
+* 구축된 신체 빅데이터를 통한 **표준체형 분석** 및 **민간 피복 제조업계 도움** 
 
 ## 3D 가상피팅 모델(피터) 소개
 * ① 동영상(유투브 링크) 
@@ -61,7 +67,6 @@ ARmy Fitter 미리보기 |
 ------------ | :-------------: 
 **②** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu2_small_2.jpg?raw=true)  
 **③** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu3_small_3.jpg?raw=true)
-
 
 
 ## 프로젝트 세부 내용설명
@@ -112,28 +117,30 @@ ARmy Fitter 미리보기 |
 ## 영상자료
 **【발표영상】**
 
-영상 | 
-:------------: |  
-제작중 |
+영상 편집중 | 
+------------ | 
+
+PPT 동영상(편집중) | 비디오 촬영영상 
+------------ | :-------------:
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/presentation_(2).jpg?raw=true) | [![Video Label](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/presentation_video.jpg?raw=true)(https://youtu.be/qjZHjrUhzNg)  
+
  
 * 보조영상 링크(제작중)
 
 
 **【시연영상】**
 
-시연영상 | 
-:------------: |  
-제작중 | 
+영상 편집중 | 
+------------ |  
 * 보조영상(1) 링크(제작중)
 * 보조영상(2) 링크(제작중)
 
 
 ##  기술 스택 (Technique Used)
-### Server(back-end)
- -  내용 작성 예정
- 
-### front-end
- -  내용 작성 예정
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/TechStack.jpg?raw=true) | 
+------------ | 
+
+
 
 ## 설치 및 프로젝트 사용법 안내 (Installation Process & Getting Started)
 ```bash

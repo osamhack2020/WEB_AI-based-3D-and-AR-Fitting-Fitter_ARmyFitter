@@ -170,9 +170,8 @@ $ 아이폰 실행을 위한 iOS Build 방법
 ```bash
    √ Biography has been accepted into Marquis Who's Who(2019, 2020)
 ```
-[http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961)
 [https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do](https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do)
-[https://www.asiatoday.co.kr/view.php?key=20140407010003722](https://www.asiatoday.co.kr/view.php?key=20140407010003722)
+[http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961)
 [http://blog.daum.net/ilovekndu/11888187](http://blog.daum.net/ilovekndu/11888187)
 
 

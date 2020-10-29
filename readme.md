@@ -174,6 +174,7 @@ $ 아이폰 실행을 위한 iOS Build 방법
     [https://www.asiatoday.co.kr/view.php?key=20140407010003722](https://www.asiatoday.co.kr/view.php?key=20140407010003722)
     [http://blog.daum.net/ilovekndu/11888187](http://blog.daum.net/ilovekndu/11888187)
 ```
+테스트 [http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961)
 - Park InYeong(piy01@naver.com), Github ID : Park-inyeong
 - Park KyungMin(suguys@naver.com), Github ID : suguys
 - Ahn HyeongJin(mindofthesky@naver.com), Github ID : mindofthesky

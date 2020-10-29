@@ -170,4 +170,4 @@ $ 아이폰 실행을 위한 iOS Build 방법
 
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
- * <a href="/license.md">MIT</a>
+ * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)

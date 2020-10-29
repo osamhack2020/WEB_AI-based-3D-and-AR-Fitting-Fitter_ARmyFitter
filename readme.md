@@ -133,9 +133,9 @@ PPT 동영상(편집중) | 비디오 촬영영상
 
 
 
-① | test | test  
+스토리텔링 기반 시연영상(편집중) | 보조영상(1) | 보조영상(2)  
 ------------ | :-------------:  | :-------------:
-**②** | test  | test 
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/storytelling%20vedio.jpg?raw=true) |   |  
 
 
 

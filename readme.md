@@ -122,19 +122,23 @@ PPT 동영상(편집중) | 비디오 촬영영상
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/presentation_(2).jpg?raw=true) | [![Video Label](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/presentation_video.jpg?raw=true)](https://youtu.be/qjZHjrUhzNg)  
 
 
-
-
-
-
-* 보조영상 링크(제작중)
-
-
 **【시연영상】**
 
 영상 편집중 | 
 ------------ |  
 * 보조영상(1) 링크(제작중)
 * 보조영상(2) 링크(제작중)
+
+
+
+
+
+① | test | test  
+------------ | :-------------:  | :-------------:
+**②** | test  | test 
+
+
+
 
 
 ##  기술 스택 (Technique Used)

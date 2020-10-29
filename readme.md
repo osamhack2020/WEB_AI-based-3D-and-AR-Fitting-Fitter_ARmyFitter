@@ -171,8 +171,6 @@ $ 아이폰 실행을 위한 iOS Build 방법
    √ Biography has been accepted into Marquis Who's Who(2019, 2020)
 ```
 [https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do](https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do)
-[http://blog.daum.net/ilovekndu/11888187](http://blog.daum.net/ilovekndu/11888187)
-
 [http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961)
 
 

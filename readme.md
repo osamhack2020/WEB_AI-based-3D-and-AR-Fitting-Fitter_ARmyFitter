@@ -157,6 +157,20 @@ $ 아이폰 실행을 위한 iOS Build 방법
  
 ## 팀 정보 (Team Information)
 - Park GunWoo(biybab@nate.com), Github ID : park-gunwoo
+```bash
+   √ Ph.D., Korea National Defense Univ., DB & Media Lab
+     · Social Web, Social Network Analysis
+     · Big Data, Data Mining, Artificial Intelligence
+     · Measures of Effectiveness for the C4I System
+   √ Short-Term Education Course, Lehigh Univ., WUME Lab
+     · Web Understanding, Modeling, and Evaluation(WUME) 
+   √ M.S., Yonsei Univ., Computer & Communication Lab
+     · Wireless Network & Sedurity 
+   √ B.S., ChungNam National Univ., Dept. Computer Science
+```
+```bash
+   √ Biography has been accepted into Marquis Who's Who(2019, 2020)
+```
 - Park InYeong(piy01@naver.com), Github ID : Park-inyeong
 - Park KyungMin(suguys@naver.com), Github ID : suguys
 - Ahn HyeongJin(mindofthesky@naver.com), Github ID : mindofthesky

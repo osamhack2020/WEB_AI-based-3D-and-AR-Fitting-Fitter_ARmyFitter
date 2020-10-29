@@ -132,11 +132,10 @@ ARmy Fitter 미리보기(편집중) |
 
 
 ##  기술 스택 (Technique Used)
-### Server(back-end)
- -  내용 작성 예정
- 
-### front-end
- -  내용 작성 예정
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/TechStack.jpg?raw=true) | 
+------------ | 
+
+
 
 ## 설치 및 프로젝트 사용법 안내 (Installation Process & Getting Started)
 ```bash

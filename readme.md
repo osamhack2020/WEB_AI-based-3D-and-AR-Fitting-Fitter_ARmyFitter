@@ -17,7 +17,7 @@ ARmy Fitter 미리보기(편집중) |
 
 ## 팀소개
 
-이미지 제작중 | 
+https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/teamwork_2.jpg?raw=true | 
 ------------ | 
 
 * 팀명은 **"피터**(Fitter)"**이며**

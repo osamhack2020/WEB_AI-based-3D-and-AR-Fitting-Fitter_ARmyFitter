@@ -158,18 +158,21 @@ $ 아이폰 실행을 위한 iOS Build 방법
 ## 팀 정보 (Team Information)
 - Park GunWoo(biybab@nate.com), Github ID : park-gunwoo
 ```bash
-   √ Ph.D., Korea National Defense Univ., DB & Media Lab
-     · Social Web, Social Network Analysis
-     · Big Data, Data Mining, Artificial Intelligence
-     · Measures of Effectiveness for the C4I System
-   √ Short-Term Education Course, Lehigh Univ., WUME Lab
+   √ Ph.D., Korea National Defense Univ., The National Defense Science Dept. DB and Media Lab
+     · Social Web, Social Network Analysis, Big Data, Data Mining, Artificial Intelligence
+     · Measures of Effectiveness : the C4I System
+   √ Short-Term Education Course, Lehigh Univ., Computer Science and Engineering Dept., WUME Lab
      · Web Understanding, Modeling, and Evaluation(WUME) 
-   √ M.S., Yonsei Univ., Computer & Communication Lab
-     · Wireless Network & Sedurity 
-   √ B.S., ChungNam National Univ., Dept. Computer Science
+   √ M.S., Yonsei Univ., Computer Science Dept., Computer and Communication Lab
+     · Wireless Network and Sedurity 
+   √ B.S., ChungNam National Univ., Computer Science Dept.
 ```
 ```bash
    √ Biography has been accepted into Marquis Who's Who(2019, 2020)
+   √ http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961
+   √ https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do
+   √ https://www.asiatoday.co.kr/view.php?key=20140407010003722
+   √ http://blog.daum.net/ilovekndu/11888187
 ```
 - Park InYeong(piy01@naver.com), Github ID : Park-inyeong
 - Park KyungMin(suguys@naver.com), Github ID : suguys

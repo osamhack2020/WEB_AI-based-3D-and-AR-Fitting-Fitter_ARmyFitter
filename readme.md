@@ -79,10 +79,6 @@ ARmy Fitter 미리보기(편집중) |
 * AI 머신러닝을 통해 개개인의 신체 치수를 입력받아 개개인별 군복(피복)추천
 * 전투복 상의, 하의, 베레모 , 전투화에 대한 추천 결과(사이즈) 및 정확률 제시 
 
-
-:balloon: :triangular_flag_on_post: :heavy_check_mark: :cherry_blossom: :low_brightness::low_brightness:
-
-
 ① | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation9_2.jpg?raw=true) 
 ------------ | :-------------:
 **②** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation2_2.jpg?raw=true)  
@@ -121,14 +117,14 @@ ARmy Fitter 미리보기(편집중) |
 
 
 ## 영상자료
-**【발표영상】**
+**:sparkles: 발표영상
 
 PPT 동영상(편집중) | 비디오 촬영영상 
 ------------ | :-------------:
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/presentation_(2).jpg?raw=true) | [![Video Label](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/presentation_video.jpg?raw=true)](https://youtu.be/qjZHjrUhzNg)  
 
 
-**【시연영상】**
+**:sparkles: 시연영상*
 
 스토리텔링 기반 시연영상(편집중) | 보조영상(1) 편집중 | 보조영상(2) 편집중  
 ------------ | :-------------:  | :-------------:

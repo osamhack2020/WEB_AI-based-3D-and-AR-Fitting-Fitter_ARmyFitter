@@ -173,9 +173,18 @@ $ 아이폰 실행을 위한 iOS Build 방법
 [https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do](https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do)
 [http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961)
 
-
-- Park InYeong(piy01@naver.com), Github ID : Park-inyeong
 - Park KyungMin(suguys@naver.com), Github ID : suguys
+```bash
+   √ Special Career '3D Artist & 3D Visual Effector'
+     「 work for a Flim Post Production Company 」
+     ■ Participating work
+        ● Movies
+            · 리턴, 지금 사랑하는 사람과 살고 있습니까?, 두 사람이다 etc.
+        ● Advertising
+            · YEOSU Expo Promotional video 3D Effector
+            · Hyundai TV Advertising 3D Effetor etc
+```
+- Park InYeong(piy01@naver.com), Github ID : Park-inyeong
 - Ahn HyeongJin(mindofthesky@naver.com), Github ID : mindofthesky
 
 

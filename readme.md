@@ -14,7 +14,7 @@ ARmy Fitter 미리보기(편집중) |
 * Army(육군), AR(Augmented Reality), My(나의), Fitting → Army → "AR"my → **ARmyFitter**
 ***
  
-##:pushpin:  팀소개
+## 팀소개
 
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/FitterTeamIntroduce.jpg?raw=true) | 
 ------------ | 
@@ -24,7 +24,7 @@ ARmy Fitter 미리보기(편집중) |
 * 팀원 별 기획 및 계획, 시스템 설계 및 분석, 구현 및 프로젝트 개발 관리, 영상제작 등의 임무 분장과
 * 임무는 분업화 하되 **"신뢰기반의 팀워크 발휘"**를 통해 프로젝트를** 재미있게** 수행함
 
-:pushpin: ## 아이템 선정 배경
+## 아이템 선정 배경
 * 코로나19로 인한 **언택트 서비스가 강조**되고 있고
 * 입대 시 병사들의 경우 샘플 피복 착용 후 희망 치수를 분배 또는 본인이 입던 치수나 신체 측정 치수를 바탕으로
   * 교관 경험에 의해 피복류가 추천(지급)됨에 따라
@@ -34,7 +34,7 @@ ARmy Fitter 미리보기(편집중) |
 * 위와 같은 문제점을 해결하기 위한 방안으로
   * **빅데이터 분석&AI 기반**의 개인 맞춤형 피복추천 + **3D&AR 체험** 서비스를 제안함
 
-:pushpin: ## 아이템의 가치 및 기대효과
+## 아이템의 가치 및 기대효과
 * 첨단 IT 신기술(빅데이터, 인공지능, 3D, 증강현실)의 **융합 적용**
 * 신체 정보에 따른 맞춤형 피복을 가상의 세계에서 입대 前 / 後 **선착용 경험** 가능
 * 입대 장병의 신체 **치수체계 재정립 및 개인체형에 가장 적합한 치수 지급** 가능
@@ -46,7 +46,7 @@ ARmy Fitter 미리보기(편집중) |
   * 3D 모델링을 통한 추천된 피복에 대한 가상 피팅 서비스 지원 및 AR을 통한 피복 착용 간접 체험
 * 구축된 신체 빅데이터를 통한 **표준체형 분석** 및 **민간 피복 제조업계 도움** 
 
-:pushpin: ## 3D 가상피팅 모델(피터) 소개
+## 3D 가상피팅 모델(피터) 소개
 * ① 동영상(유투브 링크) 
 * ② 이미지
 * ③ 체형별 9가지 타입
@@ -56,7 +56,7 @@ ARmy Fitter 미리보기(편집중) |
 **②** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter_one_small2.jpg?raw=true)  
 **③** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(9).jpg?raw=true)
 
-:pushpin: ##  기능 설계(메뉴 구성)
+##  기능 설계(메뉴 구성)
 * ① Web Design & 3D WebGL
 * ② 3D Modeling & Rendering
 * ③ Unity & Augmented Reality
@@ -67,7 +67,7 @@ ARmy Fitter 미리보기(편집중) |
 **③** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu3_small_3.jpg?raw=true)
 
 
-:pushpin: ## 프로젝트 세부 내용설명
+## 프로젝트 세부 내용설명
 **【빅데이터 분석 & AI 기반 피복류 추천】**
 * ① 빅데이터 분석
   * 최적의 치수 추천을 위해 Python 기반 Contents base Filter 알고리즘 사용
@@ -112,7 +112,7 @@ ARmy Fitter 미리보기(편집중) |
 **②** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation6.jpg?raw=true)  
 
 
-:pushpin: ## 영상자료
+## 영상자료
 **【발표영상】**
 
 PPT 동영상(편집중) | 비디오 촬영영상 
@@ -133,7 +133,7 @@ PPT 동영상(편집중) | 비디오 촬영영상
 
 
 
-:pushpin: ## 설치 및 프로젝트 사용법 안내 (Installation Process & Getting Started)
+## 설치 및 프로젝트 사용법 안내 (Installation Process & Getting Started)
 ```bash
 $ 현재 ARmy Fitter AR 서비스는 안드로이드 기반으로 개발 및 Build되었으며,
 $ Android 용 실행파일인 apk 파일이 생성되며,
@@ -153,7 +153,7 @@ $ 아이폰 실행을 위한 iOS Build 방법
 ```
 
  
-:pushpin: ## 팀 정보 (Team Information)
+## 팀 정보 (Team Information)
 :sparkles: Park GunWoo(biybab@nate.com), Github ID : park-gunwoo
 ```bash
    √ Ph.D., Korea National Defense Univ., The National Defense Science Dept. DB and Media Lab

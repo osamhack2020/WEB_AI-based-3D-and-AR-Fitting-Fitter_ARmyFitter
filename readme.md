@@ -138,7 +138,7 @@ PPT 동영상 | 비디오 촬영영상
 
 
 ## 설치 및 프로젝트 사용법 안내 (Installation Process & Getting Started)
-:mag_right: ARmy Fitter 서비스 접속 URL : http://34.125.174.191/length
+:mag_right: ARmy Fitter 서비스 접속 URL : http://34.125.174.191:8080/length/
 ```bash
 $ 현재 ARmy Fitter AR 서비스는 안드로이드 기반으로 개발 및 Build되었으며,
 $ Android 용 실행파일인 apk 파일이 생성되며,

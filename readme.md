@@ -158,7 +158,7 @@ $ 아이폰 실행을 위한 iOS Build 방법
 
  
 ## 팀 정보 (Team Information)
-:sparkles: Park GunWoo(biybab@nate.com), Github ID : park-gunwoo
+:bow: Park GunWoo(biybab@nate.com), Github ID : park-gunwoo
 ```bash
    √ Ph.D., Korea National Defense Univ., The National Defense Science Dept. DB and Media Lab
      · Social Web, Social Network Analysis, Big Data, Data Mining, Artificial Intelligence
@@ -174,16 +174,16 @@ $ 아이폰 실행을 위한 iOS Build 방법
 [https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do](https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do)
 [http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961)
 
-:sparkles: Park KyungMin(suguys@naver.com), Github ID : suguys
+:boy: Park KyungMin(suguys@naver.com), Github ID : suguys
 ```bash
    √ Special Career '3D Artist & 3D Visual Effector'
      「 A Flim Post Production Company 」 Participating work
      · Movies : 리턴, 지금 사랑하는 사람과 살고 있습니까?, 두 사람이다 etc.
      · Advertising : YEOSU Expo Promotional video 3D Effector, Hyundai TV Advertising 3D Effetor etc
 ```
-:sparkles: Park InYeong(piy01@naver.com), Github ID : Park-inyeong
+:information_desk_person: Park InYeong(piy01@naver.com), Github ID : Park-inyeong
 
-:sparkles: Ahn HyeongJin(mindofthesky@naver.com), Github ID : mindofthesky
+:person_with_blond_hair: Ahn HyeongJin(mindofthesky@naver.com), Github ID : mindofthesky
 
 
 ## 마크다운 문법 참고 (MarkDown Grammar)

@@ -183,7 +183,7 @@ $ 아이폰 실행을 위한 iOS Build 방법
 ```
 :information_desk_person: Park InYeong(piy01@naver.com), Github ID : Park-inyeong
 
-:boy::person_with_blond_hair: Ahn HyeongJin(mindofthesky@naver.com), Github ID : mindofthesky
+:boy::man_with_turban: Ahn HyeongJin(mindofthesky@naver.com), Github ID : mindofthesky
 
 
 ## 마크다운 문법 참고 (MarkDown Grammar)

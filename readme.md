@@ -119,9 +119,9 @@ ARmy Fitter 미리보기 |
 ## 영상자료
 **:scroll: 발표영상**
 
-PPT 동영상(편집중) | 비디오 촬영영상 
+PPT 동영상 | 비디오 촬영영상 
 ------------ | :-------------:
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/presentation_(2).jpg?raw=true) | [![Video Label](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/presentation_video.jpg?raw=true)](https://youtu.be/qjZHjrUhzNg)  
+[![Video Label](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/presentation_(2).jpg?raw=true)](https://youtu.be/-5D7rCWLjml) | [![Video Label](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/presentation_video.jpg?raw=true)](https://youtu.be/qjZHjrUhzNg)  
 
 
 **:movie_camera: 시연영상**

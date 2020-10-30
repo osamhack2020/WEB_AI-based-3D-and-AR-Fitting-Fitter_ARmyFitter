@@ -131,7 +131,7 @@ PPT 동영상(편집중) | 비디오 촬영영상
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/storytelling_3.jpg?raw=true) | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/story_sub_1.jpg?raw=true) | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/story_sub_2.jpg?raw=true) 
 
 
-:pushpin: ##  기술 스택 (Technique Used)
+##  기술 스택 (Technique Used)
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/TechStack.jpg?raw=true) | 
 ------------ | 
 

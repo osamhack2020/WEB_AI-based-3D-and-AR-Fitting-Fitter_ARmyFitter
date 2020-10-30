@@ -159,8 +159,8 @@ $ 아이폰 실행을 위한 iOS Build 방법
  
 ## 팀 정보 (Team Information)
 :bow: Park GunWoo(biybab@nate.com), Github ID : park-gunwoo
-[https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do](https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do)
-[http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961)
+&nbsp;&nbsp; :mag_right:  [https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do](https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do)
+&nbsp;&nbsp; :mag_right:  [http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961)
 ```bash
    √ Ph.D., Korea National Defense Univ., The National Defense Science Dept. DB and Media Lab
      · Social Web, Social Network Analysis, Big Data, Data Mining, Artificial Intelligence

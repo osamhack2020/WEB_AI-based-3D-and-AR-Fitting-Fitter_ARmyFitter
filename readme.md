@@ -11,7 +11,7 @@ ARmy Fitter 미리보기(편집중) |
 
 --- 
 육군을 상징하고 프로젝트의 성격과 연관된 어휘를 종합하여 로고를 제작하였음
-* Army(육군), AR(Augmented Reality), My(나의), Fitting → Army → "AR"my → ARmyFitter
+* Army(육군), AR(Augmented Reality), My(나의), Fitting → Army → "AR"my → **ARmyFitter**
 ***
 
 
@@ -20,7 +20,7 @@ ARmy Fitter 미리보기(편집중) |
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/teamwork_3.jpg?raw=true) | 
 ------------ | 
 
-* 팀명은 **"피터**(Fitter)"**이며**
+* 팀명은 **"ARmyFitter**(아미피터)"**이며**
 * 팀원은 4명(개발관리장교, 빅데이터기술담당, VR기술/개발담당, 정보작전SW개발장교)으로 구성하였고
 * 팀원 별 기획 및 계획, 시스템 설계 및 분석, 구현 및 프로젝트 개발 관리, 영상제작 등의 임무 분장과
 * 임무는 분업화 하되 **"신뢰기반의 팀워크 발휘"**를 통해 프로젝트를** 재미있게** 수행함
@@ -186,3 +186,6 @@ $ 아이폰 실행을 위한 iOS Build 방법
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
  * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
+
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/teamwork_3.jpg?raw=true) | 
+------------ | 

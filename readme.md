@@ -137,7 +137,7 @@ PPT 동영상 | 비디오 촬영영상
 
 
 
-## 서비스 이용 안내 (Use Service & Installation Guide)
+## 서비스 이용 안내 (Service Use & Installation Guide)
 **:mag_right: ARmy Fitter 서비스 접속 :** http://34.125.174.191:8080/length/
 ```bash
 $ 현재 ARmy Fitter AR 서비스는 안드로이드 기반으로 개발 및 Build되었으며,

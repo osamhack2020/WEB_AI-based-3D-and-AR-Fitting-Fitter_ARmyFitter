@@ -24,12 +24,12 @@ ARmy Fitter 미리보기(편집중) |
 :sparkles: 코로나19로 인한 **언택트 서비스가 강조**되고 있고
 
 :sparkles: 변화된 입대 장병들의 **신체 치수에 유연하게 적용 가능한 치수체계 미정립**으로
-  * 입대 장병들의 희망치수 사전 확보 부족 및 불출 지연 발생과 특정치수의 재고 누적 현상이 발생하고 
+  * 입대 장병들의 희망치수 사전 확보 부족 및 불출 지연 발생과 특정치수의 재고 누적 현상 발생 
 
 :sparkles: 피복 착용 후 **사이즈가 맞지 않는 불편 호소와 교환이 빈번하게 발생**함에 따라
 
-  * 입대 시 병사들의 경우 샘플 피복 착용 후 희망 치수를 수령 또는 
-  * 본인이 입던 치수나 신체 측정 치수를 바탕으로 교관 경험에 의해 피복류가 추천(지급)
+  * 입대 시 병사들의 경우 샘플 피복 착용 후 희망 치수 수령 또는 
+  * 본인이 입던 치수나 신체 측정 치수를 바탕으로 교관 경험에 의해 피복류 추천(지급)
 
 :sparkles: 위와 같은 문제점 해결방안으로
   * **빅데이터 분석 & AI 기반**의 개인 맞춤형 피복추천 + **3D & AR 체험** 서비스 제안
@@ -48,7 +48,7 @@ ARmy Fitter 미리보기(편집중) |
 :sparkles: 구축된 신체 빅데이터를 통한 **표준체형 분석** 및 **민간 피복 제조업계 도움** 
 
 ## 3D 가상피팅 모델(피터) 소개
-:sparkles: ① 동영상(유투브 링크), ② 이미지, ③ 체형별 9가지 타입
+**:sparkles: ① 동영상(유투브 링크), ② 이미지, ③ 체형별 9가지 타입**
 
 ① | [https://youtu.be/JauKatovPbU](https://youtu.be/JauKatovPbU) 
 ------------ | :-------------: 
@@ -56,7 +56,7 @@ ARmy Fitter 미리보기(편집중) |
 **③** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(9).jpg?raw=true)
 
 ##  기능 설계(메뉴 구성)
-:sparkles: ① Web Design & 3D WebGL, ② 3D Modeling & Rendering, ③ Unity & Augmented Reality
+**:sparkles: ① Web Design & 3D WebGL, ② 3D Modeling & Rendering, ③ Unity & Augmented Reality**
 
 ① | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu1_small_2.jpg?raw=true)  
 ------------ | :-------------: 
@@ -66,7 +66,7 @@ ARmy Fitter 미리보기(편집중) |
 
 ## 프로젝트 세부 내용설명
 **:sparkles: 빅데이터 분석 & AI 기반 피복류 추천**
-* ① 빅데이터 분석
+* **① 빅데이터 분석**
   * 최적의 치수 추천을 위해 Python 기반 Contents base Filter 알고리즘 사용
   * 빅데이터 분석을 통해 비정형화된 치수 테이터 가공, 표준 데이터를 산정하고 가시화할 수 있는 데이터 제공
 * ② AI-Based 가중치 분석
@@ -82,7 +82,7 @@ ARmy Fitter 미리보기(편집중) |
 
 
 **:sparkles: 추천 치수에 따른 군복 3D 가상피팅**
-* ① 3D 가상피팅
+**:pushpin:* ① 3D 가상피팅**
   * 3D SW(Maya)의 모델링을 통한 피복 추천 결과값의 가시화 제공
   * 내 신체 치수에 맞는 피복 착용 모델을 3D 360도 회전으로 웹상에서 확인 가능 
   * Python 데이터와 3D 모델 간 데이터 연동을 통해 정확하고 다양한 결과 제시

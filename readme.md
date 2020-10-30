@@ -14,7 +14,7 @@ ARmy Fitter 미리보기(편집중) |
 * Army(육군), AR(Augmented Reality), My(나의), Fitting → Army → "AR"my → **ARmyFitter**
 ***
  
-:pushpin: ## 팀소개
+##:pushpin:  팀소개
 
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/FitterTeamIntroduce.jpg?raw=true) | 
 ------------ | 

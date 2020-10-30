@@ -180,6 +180,7 @@ $ 아이폰 실행을 위한 iOS Build 방법
      · Advertising : YEOSU Expo Promotional video 3D Effector, Hyundai TV Advertising 3D Effetor etc
 ```
 :sparkles: Park InYeong(piy01@naver.com), Github ID : Park-inyeong
+
 :sparkles: Ahn HyeongJin(mindofthesky@naver.com), Github ID : mindofthesky
 
 

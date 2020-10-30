@@ -159,6 +159,8 @@ $ 아이폰 실행을 위한 iOS Build 방법
  
 ## 팀 정보 (Team Information)
 :bow: Park GunWoo(biybab@nate.com), Github ID : park-gunwoo
+[https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do](https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do)
+[http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961)
 ```bash
    √ Ph.D., Korea National Defense Univ., The National Defense Science Dept. DB and Media Lab
      · Social Web, Social Network Analysis, Big Data, Data Mining, Artificial Intelligence
@@ -171,8 +173,6 @@ $ 아이폰 실행을 위한 iOS Build 방법
 
    √ Biography has been accepted into Marquis Who's Who(2019, 2020)
 ```
-[https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do](https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do)
-[http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961](http://www.daejonilbo.com/news/newsitem.asp?pk_no=1111961)
 
 :boy: Park KyungMin(suguys@naver.com), Github ID : suguys
 ```bash
@@ -183,7 +183,7 @@ $ 아이폰 실행을 위한 iOS Build 방법
 ```
 :information_desk_person: Park InYeong(piy01@naver.com), Github ID : Park-inyeong
 
-:boy::man_with_turban: Ahn HyeongJin(mindofthesky@naver.com), Github ID : mindofthesky
+:man_with_turban: Ahn HyeongJin(mindofthesky@naver.com), Github ID : mindofthesky
 
 
 ## 마크다운 문법 참고 (MarkDown Grammar)

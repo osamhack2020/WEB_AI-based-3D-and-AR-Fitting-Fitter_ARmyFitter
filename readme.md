@@ -33,8 +33,9 @@ ARmy Fitter 미리보기(편집중) |
   * **빅데이터 분석 & AI 기반**의 개인 맞춤형 피복추천 + **3D & AR 체험** 서비스를 제안함
 
 ## 아이템의 가치 및 기대효과
-:sparkles: 첨단 IT 신기술(빅데이터, 인공지능, 3D, 증강현실)의 **융합 적용**
+:sparkles: 첨단 IT 신기술 **융합**, 코로나19 상황 등에 따른 **언택트 서비스 지원**
 
+  * 3D 모델링을 통한 추천된 피복에 대한 가상 피팅 서비스 지원 및 AR을 통한 피복 착용 간접 체험
 :sparkles: 신체 정보에 따른 맞춤형 피복을 가상의 세계에서 입대 前 / 後 **선착용 경험** 가능
 
 :sparkles: 입대 장병의 신체 **치수체계 재정립 및 개인체형에 가장 적합한 치수 지급** 가능
@@ -43,17 +44,10 @@ ARmy Fitter 미리보기(편집중) |
   * 치수별 소요예측 적중률 향상으로 **조달소요량 판단**에 기여 
   * 장병 신체변화를 고려한 미래 치수체계 재정립에 단초 제공
 
-:sparkles: 코로나19 상황 등에 따른 **언택트 서비스 지원**에 적합
-  * 3D 모델링을 통한 추천된 피복에 대한 가상 피팅 서비스 지원 및 AR을 통한 피복 착용 간접 체험
-
 :sparkles: 구축된 신체 빅데이터를 통한 **표준체형 분석** 및 **민간 피복 제조업계 도움** 
 
 ## 3D 가상피팅 모델(피터) 소개
-:sparkles: ① 동영상(유투브 링크) 
-
-:sparkles: ② 이미지
-
-:sparkles: ③ 체형별 9가지 타입
+:sparkles: ① 동영상(유투브 링크), ② 이미지, ③ 체형별 9가지 타입
 
 ① | [https://youtu.be/JauKatovPbU](https://youtu.be/JauKatovPbU) 
 ------------ | :-------------: 
@@ -61,9 +55,7 @@ ARmy Fitter 미리보기(편집중) |
 **③** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/fitter(9).jpg?raw=true)
 
 ##  기능 설계(메뉴 구성)
-* ① Web Design & 3D WebGL
-* ② 3D Modeling & Rendering
-* ③ Unity & Augmented Reality
+:sparkles: ① Web Design & 3D WebGL, ② 3D Modeling & Rendering, ③ Unity & Augmented Reality
 
 ① | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/menu1_small_2.jpg?raw=true)  
 ------------ | :-------------: 

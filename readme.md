@@ -166,8 +166,7 @@ $ 아이폰 실행을 위한 iOS Build 방법
    √ M.S., Yonsei Univ., Computer Science Dept., Computer and Communication Lab
      · Wireless Network and Sedurity 
    √ B.S., ChungNam National Univ., Computer Science Dept.
-```
-```bash
+
    √ Biography has been accepted into Marquis Who's Who(2019, 2020)
 ```
 [https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do](https://kookbang.dema.mil.kr/newsWeb/20190610/3/BBSMSTR_000000010023/view.do)

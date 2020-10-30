@@ -193,4 +193,4 @@ $ 아이폰 실행을 위한 iOS Build 방법
 
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
-:shipit: [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/for%20license%20image.jpg?raw=true) [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)

@@ -24,26 +24,26 @@ ARmy Fitter 미리보기(편집중) |
 :sparkles: 코로나19로 인한 **언택트 서비스가 강조**되고 있고
 
 :sparkles: 변화된 입대 장병들의 **신체 치수에 유연하게 적용 가능한 치수체계 미정립**으로
-  * 입대 장병들의 희망치수 사전 확보 부족 및 불출 지연 발생과 특정치수의 재고 누적 현상 발생 
+&nbsp;  * 입대 장병들의 희망치수 사전 확보 부족 및 불출 지연 발생과 특정치수의 재고 누적 현상 발생 
 
 :sparkles: 피복 착용 후 **사이즈가 맞지 않는 불편 호소와 교환이 빈번하게 발생**함에 따라
 
-  * 입대 시 병사들의 경우 샘플 피복 착용 후 희망 치수 수령 또는 
-  * 본인이 입던 치수나 신체 측정 치수를 바탕으로 교관 경험에 의해 피복류 추천(지급)
+&nbsp;  * 입대 시 병사들의 경우 샘플 피복 착용 후 희망 치수 수령 또는 
+&nbsp;  * 본인이 입던 치수나 신체 측정 치수를 바탕으로 교관 경험에 의해 피복류 추천(지급)
 
 :sparkles: 위와 같은 문제점 해결방안으로
-  * **빅데이터 분석 & AI 기반**의 개인 맞춤형 피복추천 + **3D & AR 체험** 서비스 제안
+&nbsp;  * **빅데이터 분석 & AI 기반**의 개인 맞춤형 피복추천 + **3D & AR 체험** 서비스 제안
 
 ## 아이템의 가치 및 기대효과
 :sparkles: 첨단 IT 신기술 **융합 및 코로나19 상황 등에 따른 언택트 서비스 지원**
-  * 신체 정보에 따른 맞춤형 피복을 가상의 세계에서 입대 前 / 後 **선착용 경험**
-  * 3D 모델링을 통한 추천된 피복에 대한 가상 피팅 서비스 지원 및 AR을 통한 피복 착용 간접 체험
+&nbsp;  * 신체 정보에 따른 맞춤형 피복을 가상의 세계에서 입대 前 / 後 **선착용 경험**
+&nbsp;  * 3D 모델링을 통한 추천된 피복에 대한 가상 피팅 서비스 지원 및 AR을 통한 피복 착용 간접 체험
 
 :sparkles: 입대 장병의 신체 **치수체계 재정립 및 개인체형에 가장 적합한 치수 지급**
-  * 변화하는 신체 특성 분석 및 병사(소비자) 맞춤형 서비스 지원
-  * 신교대별 재고 보유수준 감소에 따른 저장관리 용이
-  * 치수별 소요예측 적중률 향상으로 **조달소요량 판단**에 기여 
-  * 장병 신체변화를 고려한 미래 치수체계 재정립에 단초 제공
+&nbsp;  * 변화하는 신체 특성 분석 및 병사(소비자) 맞춤형 서비스 지원
+&nbsp;  * 신교대별 재고 보유수준 감소에 따른 저장관리 용이
+&nbsp;  * 치수별 소요예측 적중률 향상으로 **조달소요량 판단**에 기여 
+&nbsp;  * 장병 신체변화를 고려한 미래 치수체계 재정립에 단초 제공
 
 :sparkles: 구축된 신체 빅데이터를 통한 **표준체형 분석** 및 **민간 피복 제조업계 도움** 
 
@@ -67,16 +67,20 @@ ARmy Fitter 미리보기(편집중) |
 ## 프로젝트 세부 내용설명
 **:sparkles: 빅데이터 분석 & AI 기반 피복류 추천**
 
-&nbsp;  **:pushpin: ① 빅데이터 분석**
-  * 최적의 치수 추천을 위해 Python 기반 Contents base Filter 알고리즘 사용
-  * 빅데이터 분석을 통해 비정형화된 치수 테이터 가공, 표준 데이터를 산정하고 가시화할 수 있는 데이터 제공
+&nbsp;&nbsp;  **:pushpin: ① 빅데이터 분석**
+&nbsp;&nbsp;&nbsp;  * 최적의 치수 추천을 위해 Python 기반 Contents base Filter 알고리즘 사용
+&nbsp;&nbsp;&nbsp;  * 빅데이터 분석을 통해 비정형화된 치수 테이터 가공, 표준 데이터를 산정하고 가시화할 수 있는 데이터 제공
 
-  **:pushpin: :balloon: :triangular_flag_on_post: :heavy_check_mark: :cherry_blossom: :low_brightness::low_brightness:② AI-Based 가중치 분석**
-  * 표준 데이터를 통한 군복추천 시 가중치 분석
+&nbsp;&nbsp;  **:pushpin: ② AI-Based 가중치 분석**
+&nbsp;&nbsp;&nbsp;  * 표준 데이터를 통한 군복추천 시 가중치 분석
 
-  **:pushpin: ③ AI-Based 피복추천, 정확률 제시**
-  * AI 머신러닝을 통해 개개인의 신체 치수를 입력받아 개개인별 군복(피복)추천
-  * 전투복 상의, 하의, 베레모 , 전투화에 대한 추천 결과(사이즈) 및 정확률 제시 
+&nbsp;&nbsp;  **:pushpin: ③ AI-Based 피복추천, 정확률 제시**
+&nbsp;&nbsp;&nbsp;  * AI 머신러닝을 통해 개개인의 신체 치수를 입력받아 개개인별 군복(피복)추천
+&nbsp;&nbsp;&nbsp;  * 전투복 상의, 하의, 베레모 , 전투화에 대한 추천 결과(사이즈) 및 정확률 제시 
+
+
+:balloon: :triangular_flag_on_post: :heavy_check_mark: :cherry_blossom: :low_brightness::low_brightness:
+
 
 ① | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation9_2.jpg?raw=true) 
 ------------ | :-------------:
@@ -84,8 +88,10 @@ ARmy Fitter 미리보기(편집중) |
 **③** | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation3.jpg?raw=true)
 
 
+
 **:sparkles: 추천 치수에 따른 군복 3D 가상피팅**
-**:pushpin:* ① 3D 가상피팅**
+
+&nbsp;&nbsp;  **:pushpin: ① 3D 가상피팅**
   * 3D SW(Maya)의 모델링을 통한 피복 추천 결과값의 가시화 제공
   * 내 신체 치수에 맞는 피복 착용 모델을 3D 360도 회전으로 웹상에서 확인 가능 
   * Python 데이터와 3D 모델 간 데이터 연동을 통해 정확하고 다양한 결과 제시
@@ -95,16 +101,17 @@ ARmy Fitter 미리보기(편집중) |
 ① | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation7.jpg?raw=true) 
 ------------ | :-------------:
 
+**:sparkles: AI & AR 기술 융합, 베레모 추천받기 앱 개발 및  AR 체험**
 
-****:sparkles: AI & AR 기술 융합, 베레모 추천받기 앱 개발 및  AR 체험**
-* ① AI & AR 융합 기반의 앱 개발
+&nbsp;&nbsp;  **:pushpin: ① AI & AR 융합 기반의 앱 개발**
   * AI 기반의 ‘Facial Tracking Algorithm’ 을 AR에 적용하는 아이디어 착안
   * 얼굴의 윤곽 및 곡면을 실시간 Tracking하고 그 결과를 스마트폰의 카메라 뷰를 통해 반영
   * 트랙킹 된 가상 얼굴의 468개의 메시 특정 지점 간의 거리값 측정 코드 구현 / 적용
   * 사람마다 얼굴의 크기, 이마의 너비 등 수치가 다른 점을 착안
   * 자체개발 프로그래밍을 통해 얼굴의 특정지점 간 거리값을 실시간 측정
   * 반환값에 따른 베레모 치수 추천, 소수점 이하 8자리까지의 초정밀 정확도 제시
-* ② 증강현실 체험
+
+&nbsp;&nbsp;  **:pushpin: ② 증강현실 체험**
   * 모델링한 3D 베레모를 AR(증강현실)과 접목해 사용자별 서로 다른 크기의 베레모 착용모습을 카메라로 제시
 
 ① | ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/recommendation8.jpg?raw=true) 

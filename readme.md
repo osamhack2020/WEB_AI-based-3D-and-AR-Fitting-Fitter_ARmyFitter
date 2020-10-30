@@ -156,7 +156,7 @@ $ 아이폰 실행을 위한 iOS Build 방법
 
  
 ## 팀 정보 (Team Information)
-- Park GunWoo(biybab@nate.com), Github ID : park-gunwoo
+- :+1: :sparkles: Park GunWoo(biybab@nate.com), Github ID : park-gunwoo
 ```bash
    √ Ph.D., Korea National Defense Univ., The National Defense Science Dept. DB and Media Lab
      · Social Web, Social Network Analysis, Big Data, Data Mining, Artificial Intelligence

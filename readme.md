@@ -180,7 +180,7 @@ $ 아이폰 실행을 위한 iOS Build 방법
    √ Special Career '3D Artist & 3D Visual Effector'
      「 A Flim Post Production Company 」 Participating work
      · Movies : 리턴, 지금 사랑하는 사람과 살고 있습니까?, 두 사람이다 etc.
-     · Advertising : YEOSU Expo Promotional video 3D Effector, Hyundai TV Advertising 3D Effetor etc
+     · Advertising : YEOSU Expo Promotional video 3D Effector, Hyundai TV Advertising 3D Effector etc.
 ```
 :information_desk_person: Park InYeong(piy01@naver.com), Github ID : Park-inyeong
 

@@ -17,7 +17,7 @@ ARmy Fitter 미리보기(편집중) |
 
 ## 팀소개
 
-![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/teamwork_3.jpg?raw=true) | 
+![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/FitterTeamIntroduce.jpg?raw=true) | 
 ------------ | 
 
 * 팀명은 **"ARmyFitter**(아미피터)"**이며**
@@ -175,7 +175,7 @@ $ 아이폰 실행을 위한 iOS Build 방법
 - Park KyungMin(suguys@naver.com), Github ID : suguys
 ```bash
    √ Special Career '3D Artist & 3D Visual Effector'
-     「 work for a Flim Post Production Company 」 Participating work
+     「 A Flim Post Production Company 」 Participating work
      · Movies : 리턴, 지금 사랑하는 사람과 살고 있습니까?, 두 사람이다 etc.
      · Advertising : YEOSU Expo Promotional video 3D Effector, Hyundai TV Advertising 3D Effetor etc
 ```

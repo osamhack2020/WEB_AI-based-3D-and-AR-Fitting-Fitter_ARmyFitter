@@ -117,14 +117,14 @@ ARmy Fitter 미리보기(편집중) |
 
 
 ## 영상자료
-**:sparkles: 발표영상
+**:scroll: 발표영상**
 
 PPT 동영상(편집중) | 비디오 촬영영상 
 ------------ | :-------------:
 ![Github logo](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/presentation_(2).jpg?raw=true) | [![Video Label](https://github.com/osamhack2020/WEB_AI-based-3D-and-AR-Fitting-Fitter_ARmyFitter/blob/master/folder/presentation_video.jpg?raw=true)](https://youtu.be/qjZHjrUhzNg)  
 
 
-**:sparkles: 시연영상*
+**:movie_camera: 시연영상**
 
 스토리텔링 기반 시연영상(편집중) | 보조영상(1) 편집중 | 보조영상(2) 편집중  
 ------------ | :-------------:  | :-------------:
@@ -187,9 +187,9 @@ $ 아이폰 실행을 위한 iOS Build 방법
 
 
 ## 마크다운 문법 참고 (MarkDown Grammar)
-마크다운 문법
+:page_with_curl:마크다운 문법
 [https://post.naver.com/viewer/postView.nhn?volumeNo=24627214&memberNo=42458017](https://post.naver.com/viewer/postView.nhn?volumeNo=24627214&memberNo=42458017)
 
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
-:sparkles: [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
+:triangular_flag_on_post: [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)

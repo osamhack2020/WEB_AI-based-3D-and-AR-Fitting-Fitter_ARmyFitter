@@ -12,7 +12,7 @@ ARmy Fitter 미리보기(편집중) |
 --- 
 육군을 상징하고 프로젝트의 성격과 연관된 어휘를 종합하여 로고 제작
 
-:sparkles: Army(육군), AR(Augmented Reality), My(나의), Fitting → Army → "AR"my → **ARmyFitter**
+:sparkles: **Army(육군)**, AR(Augmented Reality), My(나의), Fitting → Army → "AR"my → **ARmyFitter**
 ***
  
 ## 팀소개

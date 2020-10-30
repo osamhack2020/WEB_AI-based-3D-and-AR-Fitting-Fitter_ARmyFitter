@@ -192,4 +192,4 @@ $ 아이폰 실행을 위한 iOS Build 방법
 
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
-:triangular_flag_on_post: [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
+:shipit: [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)

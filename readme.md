@@ -38,7 +38,7 @@ ARmy Fitter 미리보기 |
 ## 아이템의 가치 및 기대효과
 :sparkles: 첨단 IT 신기술의 복합적인 융합을 시도하고 구현함으로써 **신기술 융합분야 서비스 확장 가능성 제시**
 * AI + BigData + 3D → WebGL 기술을 통한 데이터의 3D 가시화
-* AI + BigData + AR → AI & BigData처리 결과를 AR에 적용
+* AI + BigData + AR → AI & BigData 처리결과를 AR에 적용
 * AI + AR → AI 기반의 Facial Tracking Algorithm을 AR에 적용, 머리크기와 얼굴의 윤곽을 실시간 추적하고 그 결과값를 Data로 활용
 
 :sparkles: **코로나19 상황 등에 따른 언택트 서비스 지원**
